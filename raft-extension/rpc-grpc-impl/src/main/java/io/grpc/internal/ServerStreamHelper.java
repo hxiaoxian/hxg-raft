@@ -18,8 +18,8 @@ package io.grpc.internal;
 
 import io.grpc.ServerCall;
 
-import com.alipay.sofa.jraft.util.internal.ReferenceFieldUpdater;
-import com.alipay.sofa.jraft.util.internal.Updaters;
+import com.hxg.sofa.jraft.util.internal.ReferenceFieldUpdater;
+import com.hxg.sofa.jraft.util.internal.Updaters;
 
 /**
  * Get grpc's server stream.

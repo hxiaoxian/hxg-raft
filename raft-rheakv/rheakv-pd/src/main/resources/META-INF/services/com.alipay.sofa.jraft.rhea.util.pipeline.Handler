@@ -1,6 +1,6 @@
-com.alipay.sofa.jraft.rhea.pipeline.handler.StoreStatsValidator
-com.alipay.sofa.jraft.rhea.pipeline.handler.RegionStatsValidator
-com.alipay.sofa.jraft.rhea.pipeline.handler.StoreStatsPersistenceHandler
-com.alipay.sofa.jraft.rhea.pipeline.handler.RegionStatsPersistenceHandler
-com.alipay.sofa.jraft.rhea.pipeline.handler.RegionLeaderBalanceHandler
+com.hxg.sofa.jraft.rhea.pipeline.handler.StoreStatsValidator
+com.hxg.sofa.jraft.rhea.pipeline.handler.RegionStatsValidator
+com.hxg.sofa.jraft.rhea.pipeline.handler.StoreStatsPersistenceHandler
+com.hxg.sofa.jraft.rhea.pipeline.handler.RegionStatsPersistenceHandler
+com.hxg.sofa.jraft.rhea.pipeline.handler.RegionLeaderBalanceHandler
 com.hxg.raft.jraft.rhea.pipeline.handler.SplittingJudgeByApproximateKeysHandler

@@ -17,10 +17,10 @@
 package io.grpc.netty.shaded.io.grpc.netty;
 
 import java.util.List;
-import com.alipay.sofa.jraft.rpc.Connection;
-import com.alipay.sofa.jraft.rpc.impl.ConnectionClosedEventListener;
-import com.alipay.sofa.jraft.util.internal.ReferenceFieldUpdater;
-import com.alipay.sofa.jraft.util.internal.Updaters;
+import com.hxg.sofa.jraft.rpc.Connection;
+import com.hxg.sofa.jraft.rpc.impl.ConnectionClosedEventListener;
+import com.hxg.sofa.jraft.util.internal.ReferenceFieldUpdater;
+import com.hxg.sofa.jraft.util.internal.Updaters;
 import io.grpc.internal.ServerStream;
 import io.grpc.netty.shaded.io.netty.channel.Channel;
 import io.grpc.netty.shaded.io.netty.util.Attribute;
