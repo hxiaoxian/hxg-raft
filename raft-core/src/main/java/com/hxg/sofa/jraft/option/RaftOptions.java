@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.util.RpcFactoryHelper;
 /**
  * Raft options.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-03 4:38:40 PM
  */

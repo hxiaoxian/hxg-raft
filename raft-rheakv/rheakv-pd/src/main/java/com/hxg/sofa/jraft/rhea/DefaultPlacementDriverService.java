@@ -67,7 +67,7 @@ import com.alipay.sofa.jraft.util.ThreadPoolUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class DefaultPlacementDriverService implements PlacementDriverService, LeaderStateListener {
 

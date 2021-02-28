@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * Named thread factory.
  *
- * @author jiachun.fjc
+ *
  */
 public class NamedThreadFactory implements ThreadFactory {
 

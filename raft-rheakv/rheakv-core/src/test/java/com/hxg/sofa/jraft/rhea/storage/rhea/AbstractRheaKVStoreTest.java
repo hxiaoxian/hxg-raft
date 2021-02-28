@@ -58,7 +58,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * RheaKVStore unit test, covering all interfaces of {@link RheaKVStore}
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class AbstractRheaKVStoreTest extends RheaKVTestCluster {
 

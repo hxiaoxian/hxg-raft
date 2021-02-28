@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rpc.Connection;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface ConnectionClosedEventListener {
 

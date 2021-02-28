@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 /**
  * Region does not exist in the current node.
  *
- * @author jiachun.fjc
+ *
  */
 public class NoRegionFoundResponse extends BaseResponse<Boolean> {
 

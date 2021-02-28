@@ -63,7 +63,7 @@ import com.hxg.sofa.jraft.util.Utils;
 /**
  * Log storage based on rocksdb.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-06 7:27:47 AM
  */
@@ -78,7 +78,7 @@ public class RocksDBLogStorage implements LogStorage, Describer {
     /**
      * Write batch template.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2017-Nov-08 11:19:22 AM
      */

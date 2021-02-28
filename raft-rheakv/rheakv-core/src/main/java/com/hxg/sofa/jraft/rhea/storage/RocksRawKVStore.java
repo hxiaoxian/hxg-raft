@@ -90,7 +90,7 @@ import com.codahale.metrics.Timer;
  * Local KV store based on RocksDB
  *
  * @author dennis
- * @author jiachun.fjc
+ *
  */
 public class RocksRawKVStore extends BatchRawKVStore<RocksDBOptions> implements Describer {
 

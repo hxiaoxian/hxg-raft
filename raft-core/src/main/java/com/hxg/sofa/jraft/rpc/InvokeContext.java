@@ -24,7 +24,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * RPC invoke context.
  *
- * @author jiachun.fjc
+ *
  */
 public class InvokeContext {
 

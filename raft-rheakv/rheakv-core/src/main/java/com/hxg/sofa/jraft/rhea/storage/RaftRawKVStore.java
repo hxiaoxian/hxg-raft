@@ -38,7 +38,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 /**
  * KVStore based on RAFT replica state machine.
  *
- * @author jiachun.fjc
+ *
  */
 public class RaftRawKVStore implements RawKVStore {
 

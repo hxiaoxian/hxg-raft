@@ -31,8 +31,8 @@ import com.google.protobuf.Message;
 /**
  * Reset peer request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *
+ *
  */
 public class ResetPeerRequestProcessor extends BaseCliRequestProcessor<ResetPeerRequest> {
 

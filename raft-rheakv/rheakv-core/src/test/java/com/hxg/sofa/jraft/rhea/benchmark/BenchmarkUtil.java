@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class BenchmarkUtil {
 

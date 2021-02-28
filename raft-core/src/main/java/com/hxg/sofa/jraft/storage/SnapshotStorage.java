@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
 /**
  * Snapshot storage.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-08 3:30:05 PM
  */

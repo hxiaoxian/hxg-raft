@@ -26,7 +26,7 @@ import com.alipay.sofa.jraft.util.SPI;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @SPI(name = "regionStatsPersistence", priority = 70)
 @Handler.Sharable

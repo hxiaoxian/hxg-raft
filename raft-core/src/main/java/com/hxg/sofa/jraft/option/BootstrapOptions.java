@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.JRaftServiceLoader;
 /**
  * Bootstrap options
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:58:45 PM
  */

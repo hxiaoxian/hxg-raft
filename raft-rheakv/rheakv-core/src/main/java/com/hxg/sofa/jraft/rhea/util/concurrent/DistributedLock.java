@@ -43,7 +43,7 @@ import com.hxg.sofa.jraft.util.Requires;
  *      }
  * </pre>
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class DistributedLock<T> {
 

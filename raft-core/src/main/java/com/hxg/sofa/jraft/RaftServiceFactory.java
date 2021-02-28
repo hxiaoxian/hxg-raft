@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.option.NodeOptions;
 /**
  * Service factory to create raft services, such as Node/CliService etc.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-May-03 11:06:02 AM
  */

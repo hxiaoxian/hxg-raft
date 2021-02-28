@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.metadata.Instruction;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RegionHeartbeatResponse extends BaseResponse<List<Instruction>> {
 

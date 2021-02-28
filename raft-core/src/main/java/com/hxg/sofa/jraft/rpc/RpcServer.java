@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.rpc.impl.ConnectionClosedEventListener;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface RpcServer extends Lifecycle<Void> {
 

@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.rhea.util.Configured;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class PlacementDriverOptionsConfigured implements Configured<PlacementDriverOptions> {
 

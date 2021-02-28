@@ -29,7 +29,7 @@ import io.grpc.netty.shaded.io.netty.util.AttributeKey;
 /**
  * Get netty channel.
  *
- * @author jiachun.fjc
+ *
  */
 public class NettyConnectionHelper {
 

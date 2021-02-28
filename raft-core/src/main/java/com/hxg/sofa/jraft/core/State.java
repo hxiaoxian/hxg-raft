@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.core;
 
 /**
  * Node state
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-08 5:41:54 PM
  */

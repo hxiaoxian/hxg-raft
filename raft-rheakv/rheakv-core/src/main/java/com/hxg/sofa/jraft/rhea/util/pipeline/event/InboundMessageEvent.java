@@ -21,7 +21,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * The default inbound {@link MessageEvent} implementation.
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class InboundMessageEvent<T> implements MessageEvent<T> {
 

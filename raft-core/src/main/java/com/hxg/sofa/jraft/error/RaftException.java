@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.entity.EnumOutter;
 /**
  * A raft exception.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-14 10:41:21 AM
  */

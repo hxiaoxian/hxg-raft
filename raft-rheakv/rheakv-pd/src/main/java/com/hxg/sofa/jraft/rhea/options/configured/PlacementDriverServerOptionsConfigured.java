@@ -22,7 +22,7 @@ import com.alipay.sofa.jraft.rhea.util.Configured;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class PlacementDriverServerOptionsConfigured implements Configured<PlacementDriverServerOptions> {
 

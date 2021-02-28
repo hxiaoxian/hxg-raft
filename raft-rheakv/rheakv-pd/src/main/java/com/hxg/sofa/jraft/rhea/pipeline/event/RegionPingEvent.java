@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rhea.MetadataStore;
 import com.alipay.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class RegionPingEvent extends PingEvent<RegionHeartbeatRequest> {
 

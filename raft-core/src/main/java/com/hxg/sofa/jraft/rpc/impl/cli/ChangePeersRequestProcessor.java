@@ -31,8 +31,8 @@ import com.google.protobuf.Message;
 /**
  * Change peers request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class ChangePeersRequestProcessor extends BaseCliRequestProcessor<ChangePeersRequest> {
 

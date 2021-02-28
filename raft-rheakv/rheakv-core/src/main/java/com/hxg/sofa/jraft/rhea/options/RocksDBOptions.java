@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.options;
 /**
  *
  * @author dennis
- * @author jiachun.fjc
+ *
  */
 public class RocksDBOptions {
 

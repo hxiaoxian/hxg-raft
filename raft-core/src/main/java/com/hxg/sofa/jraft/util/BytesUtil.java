@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.internal.UnsafeUtf8Util;
 import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class BytesUtil {
 

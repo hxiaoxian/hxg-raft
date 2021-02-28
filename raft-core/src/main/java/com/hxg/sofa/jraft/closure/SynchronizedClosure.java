@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.Status;
 /**
  * A special Closure which provides synchronization primitives.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-16 2:45:34 PM
  */

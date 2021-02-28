@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.entity.PeerId;
 /**
  * Follower state listener.
  *
- * @author jiachun.fjc
+ *
  */
 public interface FollowerStateListener extends StateListener {
 

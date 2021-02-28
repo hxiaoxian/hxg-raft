@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 /**
  *
- * @author nicholas.jxf
+ *
  */
 public class CompareAndPutResponse extends BaseResponse<Boolean> {
 

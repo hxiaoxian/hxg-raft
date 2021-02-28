@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.rpc;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface RpcContext {
 

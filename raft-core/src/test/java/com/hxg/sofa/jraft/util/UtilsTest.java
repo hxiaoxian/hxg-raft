@@ -32,7 +32,7 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * 
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-10 5:51:20 PM
  */

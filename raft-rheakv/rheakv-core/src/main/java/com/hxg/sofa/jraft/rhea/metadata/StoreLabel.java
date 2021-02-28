@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.util.Copiable;
 /**
  * Case insensitive key/value for replica constraints.
  *
- * @author jiachun.fjc
+ *
  */
 public class StoreLabel implements Copiable<StoreLabel>, Serializable {
 

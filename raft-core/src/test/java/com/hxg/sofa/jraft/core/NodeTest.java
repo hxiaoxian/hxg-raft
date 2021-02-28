@@ -2568,7 +2568,7 @@ public class NodeTest {
 
     /**
      * mock state machine that fails to load snapshot.
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-23 11:45:29 AM
      */

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 import com.hxg.sofa.jraft.rhea.errors.Errors;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public abstract class BaseKVStoreClosure implements KVStoreClosure {
 

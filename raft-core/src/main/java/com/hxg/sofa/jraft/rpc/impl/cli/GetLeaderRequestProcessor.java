@@ -34,8 +34,8 @@ import com.google.protobuf.Message;
 /**
  * Process get leader request.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *
+ *
  */
 public class GetLeaderRequestProcessor extends BaseCliRequestProcessor<GetLeaderRequest> {
 

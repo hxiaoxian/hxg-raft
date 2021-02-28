@@ -37,7 +37,7 @@ import org.slf4j.LoggerFactory;
 /**
  * A simple service-provider loading facility (SPI).
  *
- * @author jiachun.fjc
+ *
  */
 public final class JRaftServiceLoader<S> implements Iterable<S> {
 

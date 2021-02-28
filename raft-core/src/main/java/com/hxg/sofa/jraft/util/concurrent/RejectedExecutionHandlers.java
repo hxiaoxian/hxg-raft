@@ -24,7 +24,7 @@ import java.util.concurrent.RejectedExecutionException;
  *
  * Reference from netty project.
  *
- * @author jiachun.fjc
+ *
  */
 public final class RejectedExecutionHandlers {
 

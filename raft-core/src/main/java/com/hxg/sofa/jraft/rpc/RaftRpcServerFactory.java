@@ -42,8 +42,8 @@ import com.hxg.sofa.jraft.util.RpcFactoryHelper;
 /**
  * Raft RPC server factory.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class RaftRpcServerFactory {
 

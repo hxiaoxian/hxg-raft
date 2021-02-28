@@ -39,7 +39,7 @@ import static java.lang.invoke.MethodType.methodType;
 /**
  * Protobuf message factory.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-26 4:44:20 PM
  */

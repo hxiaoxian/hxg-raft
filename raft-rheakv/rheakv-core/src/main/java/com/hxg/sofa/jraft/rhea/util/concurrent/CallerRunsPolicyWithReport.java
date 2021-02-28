@@ -23,7 +23,7 @@ import java.util.concurrent.ThreadPoolExecutor;
  * not discard task, not throw exception, let caller thread to
  * execute the task.
  *
- * @author jiachun.fjc
+ *
  */
 public class CallerRunsPolicyWithReport extends AbstractRejectedExecutionHandler {
 

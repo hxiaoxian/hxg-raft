@@ -31,7 +31,7 @@ import com.hxg.sofa.jraft.entity.RaftOutter;
 /**
  * Log manager.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 3:02:42 PM
  */
@@ -40,7 +40,7 @@ public interface LogManager extends Lifecycle<LogManagerOptions>, Describer {
     /**
      * Closure to to run in stable state.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 4:35:29 PM
      */
@@ -193,7 +193,7 @@ public interface LogManager extends Lifecycle<LogManagerOptions>, Describer {
     /**
      * New log notifier callback.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 4:40:04 PM
      */

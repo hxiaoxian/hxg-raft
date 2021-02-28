@@ -28,7 +28,7 @@ import com.google.protobuf.Message;
 /**
  * Process get all peers of the replication group request.
  *
- * @author jiachun.fjc
+ *
  */
 public class GetPeersRequestProcessor extends BaseCliRequestProcessor<GetPeersRequest> {
 

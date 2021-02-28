@@ -23,7 +23,7 @@ import java.util.concurrent.ThreadPoolExecutor;
  * not discard task, not throw exception, when the queue is full,
  * call 'BlockingQueue.put' to let the producer blocking.
  *
- * @author jiachun.fjc
+ *
  */
 public class BlockingProducersPolicyWithReport extends AbstractRejectedExecutionHandler {
 

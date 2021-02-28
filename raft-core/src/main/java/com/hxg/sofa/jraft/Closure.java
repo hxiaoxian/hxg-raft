@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft;
 /**
  * Callback closure.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-03 11:07:05 AM
  */

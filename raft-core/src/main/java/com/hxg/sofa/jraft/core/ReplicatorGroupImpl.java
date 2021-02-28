@@ -44,7 +44,7 @@ import com.hxg.sofa.jraft.rpc.RpcResponseClosure;
 
 /**
  * Replicator group for a raft group.
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 1:54:51 PM
  */

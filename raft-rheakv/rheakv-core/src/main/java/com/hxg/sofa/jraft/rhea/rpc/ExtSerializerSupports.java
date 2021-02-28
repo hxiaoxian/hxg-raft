@@ -20,7 +20,7 @@ import com.alipay.remoting.InvokeContext;
 import com.alipay.remoting.serialization.SerializerManager;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class ExtSerializerSupports {
 

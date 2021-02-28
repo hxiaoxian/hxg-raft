@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.Status;
 import com.hxg.sofa.jraft.rhea.errors.Errors;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class KVClosureAdapter implements KVStoreClosure {
 

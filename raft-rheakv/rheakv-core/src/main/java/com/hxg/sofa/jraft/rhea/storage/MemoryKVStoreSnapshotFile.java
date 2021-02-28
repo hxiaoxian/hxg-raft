@@ -41,7 +41,7 @@ import static com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MemoryKVStoreSnapshotFile extends AbstractKVStoreSnapshotFile {
 

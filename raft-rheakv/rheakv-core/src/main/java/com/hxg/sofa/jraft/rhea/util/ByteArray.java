@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * Can use it as a map key,
  *
- * @author jiachun.fjc
+ *
  */
 public final class ByteArray implements Comparable<ByteArray>, Serializable {
 

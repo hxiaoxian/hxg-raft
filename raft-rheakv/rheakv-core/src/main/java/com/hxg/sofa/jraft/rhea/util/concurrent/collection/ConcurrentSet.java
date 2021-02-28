@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.rhea.util.Maps;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class ConcurrentSet<E> extends AbstractSet<E> implements Serializable {
 

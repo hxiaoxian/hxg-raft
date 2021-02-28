@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.util;
 /**
  * Static utility methods pertaining to {@code int} primitives.
  *
- * @author jiachun.fjc
+ *
  */
 public final class Ints {
 

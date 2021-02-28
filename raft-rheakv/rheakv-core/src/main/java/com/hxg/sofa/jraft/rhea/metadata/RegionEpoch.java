@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.util.Copiable;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RegionEpoch implements Copiable<RegionEpoch>, Comparable<RegionEpoch>, Serializable {
 

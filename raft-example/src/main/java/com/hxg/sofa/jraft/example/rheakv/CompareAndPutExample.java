@@ -26,7 +26,7 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  *
- * @author nicholas.jxf
+ *
  */
 public class CompareAndPutExample {
 

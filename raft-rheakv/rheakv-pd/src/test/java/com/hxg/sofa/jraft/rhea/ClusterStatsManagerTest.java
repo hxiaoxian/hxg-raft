@@ -28,7 +28,7 @@ import com.alipay.sofa.jraft.rhea.util.Lists;
 import com.alipay.sofa.jraft.rhea.util.Pair;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class ClusterStatsManagerTest {
 

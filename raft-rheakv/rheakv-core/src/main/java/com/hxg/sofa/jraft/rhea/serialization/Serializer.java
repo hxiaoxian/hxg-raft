@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.rhea.serialization.io.OutputBuf;
 /**
  * This interface provides an abstract view for one or more serializer impl.
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class Serializer {
 

@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MultiGetRequest extends BaseRequest {
 

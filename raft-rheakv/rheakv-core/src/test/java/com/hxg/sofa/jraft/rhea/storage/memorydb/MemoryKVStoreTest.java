@@ -69,7 +69,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * MemoryDB unit test, covering all interfaces in {@link MemoryRawKVStore}
  *
- * @author jiachun.fjc
+ *
  */
 public class MemoryKVStoreTest extends BaseKVStoreTest {
 

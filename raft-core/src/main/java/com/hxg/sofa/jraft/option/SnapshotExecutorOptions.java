@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 /**
  * Snapshot executor options.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:59:37 PM
  */

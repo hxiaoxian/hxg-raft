@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.rpc.RpcContext;
  * RPC request processor closure wraps request/response and network biz context.
  *
  * @author dennis
- * @author jiachun.fjc
+ *
  */
 public class RequestProcessClosure<REQ, RSP> implements Closure {
 

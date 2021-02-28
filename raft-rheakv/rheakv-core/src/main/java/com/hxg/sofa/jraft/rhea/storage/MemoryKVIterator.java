@@ -20,7 +20,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentNavigableMap;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class MemoryKVIterator implements KVIterator {
 

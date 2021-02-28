@@ -21,7 +21,7 @@ import java.util.concurrent.Executor;
 /**
  * Defined functions for process user defined request.
  *
- * @author jiachun.fjc
+ *
  */
 public interface RpcProcessor<T> {
 

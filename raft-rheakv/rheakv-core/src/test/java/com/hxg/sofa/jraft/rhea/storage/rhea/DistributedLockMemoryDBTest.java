@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rhea.storage.StorageType;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class DistributedLockMemoryDBTest extends AbstractDistributedLockTest {
 

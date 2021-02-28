@@ -24,7 +24,7 @@ import com.lmax.disruptor.ExceptionHandler;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class LoggingExceptionHandler implements ExceptionHandler<Object> {
 

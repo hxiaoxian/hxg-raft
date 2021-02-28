@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rpc.impl;
 import com.google.protobuf.Message;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface MarshallerRegistry {
 

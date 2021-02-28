@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.rhea.errors.Errors;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface KVStoreClosure extends Closure {
 

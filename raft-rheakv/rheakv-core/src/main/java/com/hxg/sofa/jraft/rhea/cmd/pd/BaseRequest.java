@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * RPC request header
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class BaseRequest implements Serializable {
 

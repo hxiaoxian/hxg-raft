@@ -28,7 +28,7 @@ import com.google.protobuf.Message;
 
 /**
  * RPC custom serializer based on protobuf
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-26 4:43:21 PM
  */

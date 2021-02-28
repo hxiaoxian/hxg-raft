@@ -40,7 +40,7 @@ import com.hxg.sofa.jraft.storage.io.ProtoBufFile;
 /**
  * Raft meta storage,it's not thread-safe.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-26 7:30:36 PM
  */

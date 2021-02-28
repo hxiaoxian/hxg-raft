@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.rhea.client.RheaKVStore;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class GetExample {
 

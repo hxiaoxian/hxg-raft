@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
  * Most of the code references the pipeline design of
  * <a href="https://github.com/netty/netty">Netty</a>.
  *
- * @author jiachun.fjc
+ *
  */
 public interface InboundHandler extends Handler {
 

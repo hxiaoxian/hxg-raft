@@ -47,7 +47,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
 /**
  * Snapshot storage based on local file storage.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-13 2:11:30 PM
  */

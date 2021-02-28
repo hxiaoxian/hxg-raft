@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.options.RheaKVStoreOptions;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Node {
 

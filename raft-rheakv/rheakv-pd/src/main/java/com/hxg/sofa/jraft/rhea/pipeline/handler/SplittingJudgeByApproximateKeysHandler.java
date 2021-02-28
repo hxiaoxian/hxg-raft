@@ -39,7 +39,7 @@ import com.alipay.sofa.jraft.util.SPI;
  * Range split judge, the reference indicator for splitting is the
  * region's approximate keys.
  *
- * @author jiachun.fjc
+ *
  */
 @SPI(name = "splittingJudgeByApproximateKeys", priority = 50)
 @Handler.Sharable

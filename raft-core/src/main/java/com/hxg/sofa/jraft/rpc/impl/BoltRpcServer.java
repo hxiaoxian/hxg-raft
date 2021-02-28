@@ -32,7 +32,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * Bolt RPC server impl.
  *
- * @author jiachun.fjc
+ *
  */
 public class BoltRpcServer implements RpcServer {
 

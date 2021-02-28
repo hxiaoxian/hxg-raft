@@ -49,7 +49,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotReader;
 /**
  * Copy another machine snapshot to local.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-07 11:32:30 AM
  */

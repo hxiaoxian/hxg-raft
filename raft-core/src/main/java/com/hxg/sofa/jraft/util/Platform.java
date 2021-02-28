@@ -23,7 +23,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Platform {
 

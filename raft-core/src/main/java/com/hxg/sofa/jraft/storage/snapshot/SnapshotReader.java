@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.entity.RaftOutter;
 /**
  * Snapshot reader.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-12 4:53:40 PM
  */

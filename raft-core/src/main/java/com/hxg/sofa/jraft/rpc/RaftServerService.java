@@ -21,7 +21,7 @@ import com.google.protobuf.Message;
 /**
  * Raft RPC service in server.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-03 4:25:09 PM
  */

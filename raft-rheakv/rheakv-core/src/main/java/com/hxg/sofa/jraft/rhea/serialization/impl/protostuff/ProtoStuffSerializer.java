@@ -36,7 +36,7 @@ import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class ProtoStuffSerializer extends Serializer {
 

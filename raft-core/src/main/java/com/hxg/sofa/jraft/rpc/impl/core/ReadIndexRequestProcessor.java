@@ -29,8 +29,8 @@ import com.google.protobuf.Message;
 /**
  * Handle read index request.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class ReadIndexRequestProcessor extends NodeRequestProcessor<ReadIndexRequest> {
 

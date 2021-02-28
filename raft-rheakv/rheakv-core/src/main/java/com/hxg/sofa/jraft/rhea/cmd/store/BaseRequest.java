@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.rhea.metadata.RegionEpoch;
 /**
  * RPC request header
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class BaseRequest implements Serializable {
 

@@ -28,7 +28,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Server3 {
 

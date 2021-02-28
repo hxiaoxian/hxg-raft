@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.rpc.RpcRequests;
 /**
  * Executing Snapshot related stuff.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-22 2:27:02 PM
  */

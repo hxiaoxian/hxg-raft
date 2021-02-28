@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.util.internal;
 /**
  * Throwing tool.
  *
- * @author jiachun.fjc
+ *
  */
 public final class ThrowUtil {
 

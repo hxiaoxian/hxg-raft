@@ -41,7 +41,7 @@ import com.google.protobuf.Message;
 /**
  * Maintain routes to raft groups.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-09 10:41:21 AM
  */

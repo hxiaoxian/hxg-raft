@@ -29,7 +29,7 @@ import static com.hxg.sofa.jraft.rhea.benchmark.BenchmarkUtil.KEY_COUNT;
 import static com.hxg.sofa.jraft.rhea.benchmark.BenchmarkUtil.VALUE_BYTES;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @State(Scope.Benchmark)
 public class RheaKVGetBenchmark extends RheaBenchmarkCluster {

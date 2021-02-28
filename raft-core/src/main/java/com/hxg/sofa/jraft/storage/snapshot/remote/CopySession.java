@@ -50,7 +50,7 @@ import com.google.protobuf.Message;
 
 /**
  * Copy session.
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-08 12:01:23 PM
  */
@@ -81,7 +81,7 @@ public class CopySession implements Session {
     /**
      * Get file response closure to answer client.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      */
     private class GetFileResponseClosure extends RpcResponseClosureAdapter<RpcRequests.GetFileResponse> {
 

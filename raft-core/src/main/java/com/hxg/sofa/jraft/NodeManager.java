@@ -34,7 +34,7 @@ import com.hxg.sofa.jraft.util.concurrent.ConcurrentHashSet;
 /**
  * Raft nodes manager.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-22 5:58:23 PM
  */

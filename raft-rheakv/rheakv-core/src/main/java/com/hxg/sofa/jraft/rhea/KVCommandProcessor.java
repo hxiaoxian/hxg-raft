@@ -33,7 +33,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * Rhea KV store RPC request processing service.
  *
- * @author jiachun.fjc
+ *
  */
 public class KVCommandProcessor<T extends BaseRequest> implements RpcProcessor<T> {
 

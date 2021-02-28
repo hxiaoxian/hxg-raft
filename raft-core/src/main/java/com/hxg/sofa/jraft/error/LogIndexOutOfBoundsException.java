@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.error;
 
 /**
  * Log index out of bounds
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-23 3:06:38 PM
  */

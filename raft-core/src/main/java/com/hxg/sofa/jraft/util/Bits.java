@@ -19,8 +19,8 @@ package com.hxg.sofa.jraft.util;
 /**
  * Bits util.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class Bits {
 

@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.util;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface Configured<T> {
 

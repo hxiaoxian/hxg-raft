@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.ByteBufferCollector;
 /**
  * Read data from a file, all the method should be thread-safe.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-13 11:48:34 AM
  */

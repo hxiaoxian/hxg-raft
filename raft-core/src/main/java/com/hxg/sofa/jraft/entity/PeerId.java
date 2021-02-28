@@ -32,7 +32,7 @@ import com.hxg.sofa.jraft.util.Utils;
 /**
  * Represent a participant in a replicating group.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 3:27:37 PM
  */

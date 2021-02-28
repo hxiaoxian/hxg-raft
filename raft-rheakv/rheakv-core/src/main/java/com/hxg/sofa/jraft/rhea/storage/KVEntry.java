@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class KVEntry implements Serializable {
 

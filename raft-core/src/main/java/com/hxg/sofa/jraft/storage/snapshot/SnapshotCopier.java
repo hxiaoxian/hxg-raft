@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.Status;
 /**
  * Copy snapshot from the give resources.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 4:55:26 PM
  */

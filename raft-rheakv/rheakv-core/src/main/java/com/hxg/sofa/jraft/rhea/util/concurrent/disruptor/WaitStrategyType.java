@@ -48,7 +48,7 @@ package com.hxg.sofa.jraft.rhea.util.concurrent.disruptor;
  * environment. This wait strategy should only be used if the number of Event Handler threads is smaller than the number
  * of physical cores on the box. E.g. hyper-threading should be disabled
  *
- * @author jiachun.fjc
+ *
  */
 public enum WaitStrategyType {
     BLOCKING_WAIT, //

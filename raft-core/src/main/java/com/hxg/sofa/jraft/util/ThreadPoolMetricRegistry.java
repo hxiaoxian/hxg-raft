@@ -20,7 +20,7 @@ import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class ThreadPoolMetricRegistry {
 

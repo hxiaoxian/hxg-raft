@@ -54,8 +54,8 @@ import com.google.protobuf.Message;
 /**
  * Raft rpc service based bolt.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *
+ *
  */
 public class DefaultRaftClientService extends AbstractClientService implements RaftClientService {
 

@@ -33,7 +33,7 @@ import com.alipay.sofa.jraft.rhea.util.Pair;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class ClusterStatsManager {
 

@@ -31,7 +31,7 @@ import com.google.protobuf.Message;
 /**
  * RemoveLearners request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  */
 public class RemoveLearnersRequestProcessor extends BaseCliRequestProcessor<RemoveLearnersRequest> {

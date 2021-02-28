@@ -29,8 +29,8 @@ import com.google.protobuf.Message;
 /**
  * RPC request Closure encapsulates the RPC contexts.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *
+ *
  */
 public class RpcRequestClosure implements Closure {
 

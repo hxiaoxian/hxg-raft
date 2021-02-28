@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class Outputs {
 

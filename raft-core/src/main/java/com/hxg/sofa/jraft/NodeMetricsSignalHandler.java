@@ -33,7 +33,7 @@ import com.codahale.metrics.MetricRegistry;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class NodeMetricsSignalHandler extends FileOutputSignalHandler {
 

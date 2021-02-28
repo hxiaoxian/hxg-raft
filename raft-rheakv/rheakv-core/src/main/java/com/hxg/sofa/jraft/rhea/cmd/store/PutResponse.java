@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class PutResponse extends BaseResponse<Boolean> {
 

@@ -44,7 +44,7 @@ import com.google.protobuf.ByteString;
 import static com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public abstract class AbstractKVStoreSnapshotFile implements KVStoreSnapshotFile {
 

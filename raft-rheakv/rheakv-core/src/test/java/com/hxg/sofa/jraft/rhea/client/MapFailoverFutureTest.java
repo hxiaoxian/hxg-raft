@@ -38,7 +38,7 @@ import com.hxg.sofa.jraft.rhea.util.Lists;
 import com.hxg.sofa.jraft.rhea.util.Maps;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class MapFailoverFutureTest {
 

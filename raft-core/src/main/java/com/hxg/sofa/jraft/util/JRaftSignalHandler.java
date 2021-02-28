@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.util;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface JRaftSignalHandler {
 

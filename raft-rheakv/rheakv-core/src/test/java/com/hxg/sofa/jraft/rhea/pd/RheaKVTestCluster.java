@@ -37,7 +37,7 @@ import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RheaKVTestCluster {
 

@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.option.CliOptions;
 /**
  * Client command-line service
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-09 4:05:35 PM
  */

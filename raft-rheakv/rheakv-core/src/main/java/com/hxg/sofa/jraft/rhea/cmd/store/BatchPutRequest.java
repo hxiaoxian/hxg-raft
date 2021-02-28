@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.storage.KVEntry;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class BatchPutRequest extends BaseRequest {
 

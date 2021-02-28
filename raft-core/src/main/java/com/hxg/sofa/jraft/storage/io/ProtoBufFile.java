@@ -37,7 +37,7 @@ import com.google.protobuf.Message;
  * <li> msg length(4 bytes)</li>
  * <li>msg data</li>
  * </ul>
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 8:56:23 PM
  */

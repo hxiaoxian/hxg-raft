@@ -29,7 +29,7 @@ import static io.protostuff.WireFormat.makeTag;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 class UnsafeNioBufOutput extends NioBufOutput {
 

@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.util.Ints;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class DefaultExecutorChooserFactory implements ExecutorChooserFactory {
 

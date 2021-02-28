@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.serialization.Serializer;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class LinkedBuffers {
 

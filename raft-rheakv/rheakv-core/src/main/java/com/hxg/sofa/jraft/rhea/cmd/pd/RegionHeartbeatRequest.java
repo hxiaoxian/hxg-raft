@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.rhea.util.Pair;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RegionHeartbeatRequest extends BaseRequest {
 

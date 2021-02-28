@@ -47,7 +47,7 @@ import com.codahale.metrics.ConsoleReporter;
 import com.codahale.metrics.Timer;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class BenchmarkClient {
 

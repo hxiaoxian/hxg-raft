@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.util.Utils;
 /**
  * Node options.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:59:12 PM
  */

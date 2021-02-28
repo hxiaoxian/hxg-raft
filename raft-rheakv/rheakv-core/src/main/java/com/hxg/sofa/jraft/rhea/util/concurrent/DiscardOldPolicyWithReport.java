@@ -24,7 +24,7 @@ import java.util.concurrent.ThreadPoolExecutor;
  * request and then retries {@code execute}, unless the executor
  * is shut down, in which case the task is discarded.
  *
- * @author jiachun.fjc
+ *
  */
 public class DiscardOldPolicyWithReport extends AbstractRejectedExecutionHandler {
 

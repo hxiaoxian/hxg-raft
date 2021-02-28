@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.internal.Updaters;
  *
  * Be careful that do not to nest in the same thread.
  *
- * @author jiachun.fjc
+ *
  */
 public class StringBuilderHelper {
 

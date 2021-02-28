@@ -25,7 +25,7 @@ import com.google.protobuf.Message;
 /**
  * Helper to create error response for GRPC implementation.
  *
- * @author jiachun.fjc
+ *
  */
 public class GrpcResponseFactory implements RpcResponseFactory {
 

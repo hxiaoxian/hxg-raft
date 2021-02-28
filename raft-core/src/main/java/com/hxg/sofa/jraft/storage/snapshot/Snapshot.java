@@ -24,7 +24,7 @@ import com.google.protobuf.Message;
 /**
  * Represents a state machine snapshot.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-07 10:17:52 AM
  */

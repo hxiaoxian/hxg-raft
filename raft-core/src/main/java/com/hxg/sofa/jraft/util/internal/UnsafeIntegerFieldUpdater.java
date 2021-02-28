@@ -21,7 +21,7 @@ import sun.misc.Unsafe;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 final class UnsafeIntegerFieldUpdater<U> implements IntegerFieldUpdater<U> {
 

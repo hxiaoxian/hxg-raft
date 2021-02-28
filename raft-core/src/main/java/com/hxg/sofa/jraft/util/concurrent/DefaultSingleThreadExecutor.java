@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class DefaultSingleThreadExecutor implements SingleThreadExecutor {
 

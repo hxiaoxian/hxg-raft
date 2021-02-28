@@ -32,8 +32,8 @@ import com.google.protobuf.Message;
 /**
  * AddLearners request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class AddLearnersRequestProcessor extends BaseCliRequestProcessor<AddLearnersRequest> {
 

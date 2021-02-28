@@ -76,7 +76,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * RocksDB unit test, covering all interfaces in {@link RocksRawKVStore}.
  *
- * @author jiachun.fjc
+ *
  */
 public class RocksKVStoreTest extends BaseKVStoreTest {
 

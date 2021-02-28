@@ -27,7 +27,7 @@ import static org.junit.Assert.fail;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class JRaftServiceLoaderTest {
 

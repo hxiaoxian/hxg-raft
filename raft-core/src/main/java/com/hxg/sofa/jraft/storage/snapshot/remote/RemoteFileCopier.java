@@ -40,7 +40,7 @@ import com.hxg.sofa.jraft.storage.snapshot.Snapshot;
 
 /**
  * Remote file copier
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-23 2:03:14 PM
  */

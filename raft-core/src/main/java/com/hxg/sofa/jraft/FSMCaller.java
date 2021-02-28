@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.Describer;
 /**
  * Finite state machine caller.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-03 11:07:52 AM
  */

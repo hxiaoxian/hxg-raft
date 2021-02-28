@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.Describer;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class DescriberManager {
 

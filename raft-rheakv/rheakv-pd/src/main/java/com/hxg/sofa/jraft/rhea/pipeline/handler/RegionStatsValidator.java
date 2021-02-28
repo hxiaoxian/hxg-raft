@@ -37,7 +37,7 @@ import com.alipay.sofa.jraft.util.SPI;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @SPI(name = "regionStatsValidator", priority = 90)
 @Handler.Sharable

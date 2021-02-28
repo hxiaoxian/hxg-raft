@@ -32,7 +32,7 @@ import com.hxg.sofa.jraft.util.CRC64;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class ZipUtilTest {
 

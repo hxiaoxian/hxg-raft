@@ -38,7 +38,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  * Test helper
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-11 10:16:07 AM
  */

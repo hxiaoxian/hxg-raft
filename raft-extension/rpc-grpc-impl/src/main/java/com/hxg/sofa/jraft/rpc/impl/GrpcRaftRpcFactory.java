@@ -34,8 +34,8 @@ import com.hxg.sofa.jraft.rpc.RpcServer;
 import com.google.protobuf.Message;
 
 /**
- * @author nicholas.jxf
- * @author jiachun.fjc
+ *
+ *
  */
 @SPI(priority = 1)
 public class GrpcRaftRpcFactory implements RaftRpcFactory {

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 /**
  * Invalid input parameter error.
  *
- * @author jiachun.fjc
+ *
  */
 public class InvalidParameterException extends ApiException {
 

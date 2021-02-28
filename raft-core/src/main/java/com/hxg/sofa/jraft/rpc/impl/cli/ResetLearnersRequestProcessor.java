@@ -31,7 +31,7 @@ import com.google.protobuf.Message;
 /**
  * ResetLearners request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  */
 public class ResetLearnersRequestProcessor extends BaseCliRequestProcessor<ResetLearnersRequest> {

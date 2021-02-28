@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.util.Copiable;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Cluster implements Copiable<Cluster>, Serializable {
 

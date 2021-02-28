@@ -25,7 +25,7 @@ import com.alipay.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @Handler.Sharable
 public class LogHandler extends InboundHandlerAdapter<PingEvent> {

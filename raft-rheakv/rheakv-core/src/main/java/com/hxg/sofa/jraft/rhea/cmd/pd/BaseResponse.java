@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.rhea.errors.Errors;
 /**
  * RPC response header
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class BaseResponse<T> implements Serializable {
 

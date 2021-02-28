@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.rhea.client.RheaKVCliService;
 /**
  * Service factory to create rheaKV services, such as RheaKVCliService etc.
  *
- * @author jiachun.fjc
+ *
  */
 public final class RheaKVServiceFactory {
 

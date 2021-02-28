@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.entity.RaftOutter;
 /**
  * Save snapshot closure
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:21:30 PM
  */

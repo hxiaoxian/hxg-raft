@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class RegionRouteTableTest {
 

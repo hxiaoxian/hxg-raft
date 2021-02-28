@@ -18,6 +18,6 @@
  * Introducing this package to prepare for serialization/deserialization
  * of zero copies.
  *
- * @author jiachun.fjc
+ *
  */
 package com.hxg.sofa.jraft.rhea.serialization;

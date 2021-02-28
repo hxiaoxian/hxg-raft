@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.rhea.options;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class HeartbeatOptions {
 

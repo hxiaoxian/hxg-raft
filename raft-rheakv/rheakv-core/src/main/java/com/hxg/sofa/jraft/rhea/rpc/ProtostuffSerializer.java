@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.rhea.util.Maps;
 import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class ProtostuffSerializer implements Serializer {
 

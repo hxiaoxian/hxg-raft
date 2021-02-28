@@ -32,7 +32,7 @@ import com.hxg.sofa.jraft.rpc.RpcRequests;
 /**
  * Replicators in a raft group.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-08 5:35:26 PM
  */

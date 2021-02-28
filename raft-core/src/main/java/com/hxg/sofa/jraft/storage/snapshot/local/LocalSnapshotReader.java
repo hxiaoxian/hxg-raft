@@ -37,7 +37,7 @@ import com.google.protobuf.Message;
 /**
  * Snapshot reader on local file system.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-08 11:10:34 AM
  */

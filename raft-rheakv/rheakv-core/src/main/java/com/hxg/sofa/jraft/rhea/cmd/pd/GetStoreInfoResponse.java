@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 import com.hxg.sofa.jraft.rhea.metadata.Store;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class GetStoreInfoResponse extends BaseResponse<Store> {
 

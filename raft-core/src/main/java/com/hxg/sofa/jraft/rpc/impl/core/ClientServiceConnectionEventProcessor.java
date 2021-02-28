@@ -28,7 +28,7 @@ import com.hxg.sofa.jraft.ReplicatorGroup;
 /**
  * Client RPC service connection event processor for {@link ConnectionEventType#CONNECT}
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-12 10:21:22 AM
  */

@@ -24,7 +24,7 @@ import com.google.protobuf.Message;
 /**
  * Cli RPC client service.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-09 11:15:13 AM
  */

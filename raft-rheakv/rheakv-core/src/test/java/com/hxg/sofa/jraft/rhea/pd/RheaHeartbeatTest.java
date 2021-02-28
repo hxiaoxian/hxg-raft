@@ -29,7 +29,7 @@ import static com.hxg.sofa.jraft.rhea.KeyValueTool.makeValue;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RheaHeartbeatTest extends RheaKVTestCluster {
 

@@ -26,7 +26,7 @@ import com.google.protobuf.Message;
 /**
  * Not thread safe.
  *
- * @author jiachun.fjc
+ *
  */
 public class MarshallerHelper {
 

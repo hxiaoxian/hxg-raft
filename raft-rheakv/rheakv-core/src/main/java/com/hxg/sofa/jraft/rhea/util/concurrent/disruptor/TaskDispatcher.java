@@ -69,7 +69,7 @@ import com.lmax.disruptor.dsl.ProducerType;
  * of physical cores on the box. E.g. hyper-threading should be disabled
  *
  *
- * @author jiachun.fjc
+ *
  */
 public class TaskDispatcher implements Dispatcher<Runnable> {
 

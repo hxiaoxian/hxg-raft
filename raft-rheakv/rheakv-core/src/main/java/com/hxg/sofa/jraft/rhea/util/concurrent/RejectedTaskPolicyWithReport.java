@@ -25,7 +25,7 @@ import java.util.concurrent.ThreadPoolExecutor;
  * rejecting, otherwise some of the existing tasks in the
  * queue will be discarded in FIFO mode.
  *
- * @author jiachun.fjc
+ *
  */
 public class RejectedTaskPolicyWithReport extends AbstractRejectedExecutionHandler {
 

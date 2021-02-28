@@ -66,8 +66,8 @@ import com.google.protobuf.ProtocolStringList;
 /**
  * Cli service implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class CliServiceImpl implements CliService {
 

@@ -22,7 +22,7 @@ import com.alipay.sofa.jraft.rhea.metadata.Instruction;
 import com.alipay.sofa.jraft.rhea.util.pipeline.event.OutboundMessageEvent;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class PongEvent extends OutboundMessageEvent<List<Instruction>> {
 

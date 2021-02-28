@@ -23,7 +23,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @SuppressWarnings("all")
 public class VarIntsTest {

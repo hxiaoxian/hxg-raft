@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class CreateRegionIdResponse extends BaseResponse<Long> {
 

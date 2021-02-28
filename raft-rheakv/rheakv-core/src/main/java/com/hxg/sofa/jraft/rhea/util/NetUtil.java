@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class NetUtil {
 

@@ -20,7 +20,7 @@ import com.alipay.sofa.jraft.rhea.util.StringBuilderHelper;
 import com.alipay.sofa.jraft.util.Endpoint;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class MetadataKeyHelper {
 

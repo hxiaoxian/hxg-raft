@@ -31,7 +31,7 @@ import org.openjdk.jmh.runner.options.OptionsBuilder;
 import org.openjdk.jmh.runner.options.TimeValue;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @SuppressWarnings("all")
 @State(Scope.Benchmark)

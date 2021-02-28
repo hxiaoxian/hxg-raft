@@ -30,7 +30,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class StoreEngineOptionsConfigured implements Configured<StoreEngineOptions> {
 

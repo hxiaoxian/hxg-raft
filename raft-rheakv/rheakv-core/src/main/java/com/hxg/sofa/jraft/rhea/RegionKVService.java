@@ -46,7 +46,7 @@ import com.hxg.sofa.jraft.rhea.metadata.RegionEpoch;
  * each {@link RegionKVService} corresponds to a region, and it
  * only processes request keys within its own region.
  *
- * @author jiachun.fjc
+ *
  */
 public interface RegionKVService {
 

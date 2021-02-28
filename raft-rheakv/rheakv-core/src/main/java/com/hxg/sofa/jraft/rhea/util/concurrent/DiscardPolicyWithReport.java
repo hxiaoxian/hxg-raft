@@ -22,7 +22,7 @@ import java.util.concurrent.ThreadPoolExecutor;
  * A handler for rejected tasks that silently discards the
  * rejected task.
  *
- * @author jiachun.fjc
+ *
  */
 public class DiscardPolicyWithReport extends AbstractRejectedExecutionHandler {
 

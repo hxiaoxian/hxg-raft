@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea;
 import java.io.IOException;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class PdServer extends BasePdServer {
 

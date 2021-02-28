@@ -27,7 +27,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Replicator id with lock.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-29 10:59:47 AM
  */
@@ -44,7 +44,7 @@ public class ThreadId {
     private volatile boolean       destroyed;
 
     /**
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Mar-29 11:01:54 AM
      */

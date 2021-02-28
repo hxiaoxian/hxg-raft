@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class KeyLockRequest extends BaseRequest {
 

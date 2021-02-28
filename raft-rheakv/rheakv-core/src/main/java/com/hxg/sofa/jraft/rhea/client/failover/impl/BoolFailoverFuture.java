@@ -16,7 +16,6 @@ import com.hxg.sofa.jraft.rhea.util.StackTraceUtil;
  * A new object will be created when a retry operation occurs and
  * {@code retriesLeft} will decrease by 1, until {@code retriesLeft} == 0.
  *
- * @author jiachun.fjc
  */
 public final class BoolFailoverFuture extends CompletableFuture<Boolean> implements Attachable<Object> {
 

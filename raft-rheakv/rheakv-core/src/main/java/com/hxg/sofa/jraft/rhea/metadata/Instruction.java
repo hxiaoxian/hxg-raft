@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 /**
  * Instruction of the placement driver server.
  *
- * @author jiachun.fjc
+ *
  */
 public class Instruction implements Serializable {
 

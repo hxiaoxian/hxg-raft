@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.options;
 import com.alipay.sofa.jraft.rhea.options.RheaKVStoreOptions;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class PlacementDriverServerOptions {
 

@@ -21,7 +21,7 @@ import java.util.concurrent.Executor;
 /**
  * Task message dispatcher.
  *
- * @author jiachun.fjc
+ *
  */
 public interface Dispatcher<T> extends Executor {
 

@@ -50,7 +50,7 @@ import static com.hxg.sofa.jraft.rhea.storage.MemoryKVStoreSnapshotFile.Segment;
 import static com.hxg.sofa.jraft.rhea.storage.MemoryKVStoreSnapshotFile.TailIndex;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class MemoryRawKVStore extends BatchRawKVStore<MemoryDBOptions> {
 

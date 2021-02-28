@@ -47,7 +47,7 @@ import com.hxg.sofa.jraft.storage.SnapshotThrottle;
 
 /**
  * Test cluster for NodeTest
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-20 1:41:17 PM
  */

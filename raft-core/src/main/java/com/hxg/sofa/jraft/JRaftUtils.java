@@ -35,7 +35,7 @@ import org.apache.commons.lang.StringUtils;
 /**
  * Some helper methods for jraft usage.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-23 3:48:45 PM
  */

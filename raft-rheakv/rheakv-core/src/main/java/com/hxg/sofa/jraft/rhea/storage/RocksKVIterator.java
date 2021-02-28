@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.rhea.errors.InvalidIteratorVersion;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RocksKVIterator implements KVIterator {
 

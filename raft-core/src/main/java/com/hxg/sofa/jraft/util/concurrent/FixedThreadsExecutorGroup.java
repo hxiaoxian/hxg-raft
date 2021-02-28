@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface FixedThreadsExecutorGroup extends Iterable<SingleThreadExecutor> {
 

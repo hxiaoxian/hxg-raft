@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rpc;
 /**
  *
  * RPC connection
- * @author jiachun.fjc
+ *
  */
 public interface Connection {
 

@@ -25,7 +25,7 @@ import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 import com.alipay.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @Handler.Sharable
 public class PlacementDriverTailHandler extends InboundHandlerAdapter<PingEvent<?>> {

@@ -28,7 +28,7 @@ import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class DefaultTimer implements Timer {
 

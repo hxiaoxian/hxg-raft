@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.rhea.options.configured.RheaKVStoreOptionsConfigured;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Client {
 

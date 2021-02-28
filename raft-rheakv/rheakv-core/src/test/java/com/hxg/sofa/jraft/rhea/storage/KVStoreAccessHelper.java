@@ -28,7 +28,7 @@ import com.alipay.sofa.jraft.rhea.storage.*;
 /**
  * KV store test helper
  *
- * @author jiachun.fjc
+ *
  */
 public final class KVStoreAccessHelper {
 

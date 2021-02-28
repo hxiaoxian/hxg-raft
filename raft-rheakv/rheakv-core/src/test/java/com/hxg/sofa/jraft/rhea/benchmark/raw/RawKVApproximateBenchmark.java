@@ -36,7 +36,7 @@ import org.openjdk.jmh.runner.options.TimeValue;
 import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
- * @author jiachun.fjc
+ *
  */
 @State(Scope.Benchmark)
 public class RawKVApproximateBenchmark extends BaseRawStoreBenchmark {

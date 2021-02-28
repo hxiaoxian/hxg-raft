@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.Status;
 import com.hxg.sofa.jraft.util.Requires;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class JoinableClosure implements Closure {
 

@@ -20,7 +20,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class StoreStats implements Serializable {
 

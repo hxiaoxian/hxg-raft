@@ -53,7 +53,7 @@ import com.hxg.sofa.jraft.util.Utils;
 /**
  * Snapshot executor implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-22 5:38:56 PM
  */
@@ -82,7 +82,7 @@ public class SnapshotExecutorImpl implements SnapshotExecutor {
     /**
      * Downloading snapshot job.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-08 3:07:19 PM
      */
@@ -118,7 +118,7 @@ public class SnapshotExecutorImpl implements SnapshotExecutor {
 
     /**
      * Save snapshot done closure
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-08 3:07:52 PM
      */
@@ -159,7 +159,7 @@ public class SnapshotExecutorImpl implements SnapshotExecutor {
 
     /**
      * Install snapshot done closure
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-08 3:08:09 PM
      */
@@ -185,7 +185,7 @@ public class SnapshotExecutorImpl implements SnapshotExecutor {
 
     /**
      * Load snapshot at first time closure
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-16 2:57:46 PM
      */

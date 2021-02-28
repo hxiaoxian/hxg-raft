@@ -36,7 +36,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * Bolt rpc client impl.
  *
- * @author jiachun.fjc
+ *
  */
 public class BoltRpcClient implements RpcClient {
 

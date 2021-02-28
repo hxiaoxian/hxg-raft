@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 import com.hxg.sofa.jraft.rhea.metadata.Cluster;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class GetClusterInfoResponse extends BaseResponse {
 

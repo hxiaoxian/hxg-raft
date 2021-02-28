@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.storage;
 /**
  * Common interface for storage.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 3:52:36 PM 
  */

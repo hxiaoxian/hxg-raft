@@ -52,8 +52,8 @@ import com.google.protobuf.Message;
 /**
  * Abstract RPC client service based.
 
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *
+ *
  */
 public abstract class AbstractClientService implements ClientService {
 

@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.util.pipeline.event;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface MessageEvent<T> {
 

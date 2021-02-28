@@ -25,7 +25,7 @@ import java.util.function.Function;
  * can be used to perform parallel tasks, and can also be
  * used to perform serial batch tasks.
  *
- * @author jiachun.fjc
+ *
  */
 public class Partitions {
 

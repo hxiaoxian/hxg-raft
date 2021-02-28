@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.Requires;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class JRaftHelper {
 

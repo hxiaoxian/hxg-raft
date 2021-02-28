@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Named thread factory with prefix.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-21 11:32:02 AM
  */

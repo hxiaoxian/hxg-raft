@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.util.Copiable;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class TimeInterval implements Copiable<TimeInterval>, Serializable {
 

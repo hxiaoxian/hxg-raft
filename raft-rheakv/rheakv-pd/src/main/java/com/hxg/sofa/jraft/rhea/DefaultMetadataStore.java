@@ -50,7 +50,7 @@ import com.alipay.sofa.jraft.util.Endpoint;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class DefaultMetadataStore implements MetadataStore {
 

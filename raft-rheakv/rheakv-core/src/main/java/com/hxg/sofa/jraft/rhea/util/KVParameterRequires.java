@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.rhea.metadata.RegionEpoch;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class KVParameterRequires {
 

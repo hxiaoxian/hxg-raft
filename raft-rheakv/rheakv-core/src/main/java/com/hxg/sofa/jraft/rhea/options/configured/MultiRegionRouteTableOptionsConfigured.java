@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.util.Requires;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class MultiRegionRouteTableOptionsConfigured implements Configured<List<RegionRouteTableOptions>> {
 

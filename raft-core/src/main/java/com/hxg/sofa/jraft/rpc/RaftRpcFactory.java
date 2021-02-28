@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 /**
  * Raft RPC service factory.
  *
- * @author jiachun.fjc
+ *
  */
 public interface RaftRpcFactory {
 

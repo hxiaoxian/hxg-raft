@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
  * schedule commands to run after a given delay with a logger witch can print
  * error message for failed execution.
  *
- * @author jiachun.fjc
+ *
  */
 public class LogScheduledThreadPoolExecutor extends ScheduledThreadPoolExecutor {
 

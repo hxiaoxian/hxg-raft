@@ -20,7 +20,7 @@ import java.util.concurrent.ExecutorService;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface FixedThreadsExecutorGroupFactory {
 

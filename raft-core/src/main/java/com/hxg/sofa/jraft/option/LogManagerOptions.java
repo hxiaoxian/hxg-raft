@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.storage.LogStorage;
 /**
  * Options for log manager.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-13 5:15:15 PM
  */

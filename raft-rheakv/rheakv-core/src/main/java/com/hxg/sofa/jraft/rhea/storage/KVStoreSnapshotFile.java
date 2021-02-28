@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface KVStoreSnapshotFile {
 

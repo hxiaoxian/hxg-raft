@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.option.LogStorageOptions;
 /**
  * Log entry storage service.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 3:43:54 PM
  */

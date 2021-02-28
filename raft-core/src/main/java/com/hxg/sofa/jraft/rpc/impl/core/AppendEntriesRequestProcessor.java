@@ -46,7 +46,7 @@ import com.google.protobuf.Message;
 /**
  * Append entries request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  *         2018-Apr-04 3:00:13 PM
  */

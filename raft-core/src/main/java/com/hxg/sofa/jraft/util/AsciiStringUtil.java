@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 import com.google.protobuf.ByteString;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class AsciiStringUtil {
 

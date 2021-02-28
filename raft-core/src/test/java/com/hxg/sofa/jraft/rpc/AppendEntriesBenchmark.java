@@ -41,7 +41,7 @@ import com.google.protobuf.ZeroByteStringHelper;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @State(Scope.Benchmark)
 public class AppendEntriesBenchmark {

@@ -34,7 +34,7 @@ import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 /**
  * Static utility methods pertaining to {@link Map} instances.
  *
- * @author jiachun.fjc
+ *
  */
 public final class Maps {
 

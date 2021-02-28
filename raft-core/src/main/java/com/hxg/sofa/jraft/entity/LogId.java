@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.util.CrcUtil;
 /**
  * Log identifier.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 3:12:29 PM
  */

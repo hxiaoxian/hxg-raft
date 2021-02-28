@@ -53,7 +53,7 @@ import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.STATE_MACHINE_BATCH_
 /**
  * Rhea KV store state machine
  *
- * @author jiachun.fjc
+ *
  */
 public class KVStoreStateMachine extends StateMachineAdapter {
 

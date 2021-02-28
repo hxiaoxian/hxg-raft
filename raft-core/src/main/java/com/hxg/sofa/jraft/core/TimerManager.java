@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 /**
  * The global timer manager.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-30 3:24:34 PM
  */

@@ -32,7 +32,7 @@ import org.rocksdb.util.SizeUnit;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class StorageOptionsFactory {
 

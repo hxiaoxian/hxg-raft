@@ -30,8 +30,8 @@ import com.google.protobuf.Message;
 /**
  * Remove peer request processor.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class RemovePeerRequestProcessor extends BaseCliRequestProcessor<RemovePeerRequest> {
 

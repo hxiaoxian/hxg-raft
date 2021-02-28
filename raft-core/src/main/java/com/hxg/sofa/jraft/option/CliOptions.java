@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.option;
 /**
  * Cli service options.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-09 3:25:59 PM
  */

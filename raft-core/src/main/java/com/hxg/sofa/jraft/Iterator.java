@@ -22,7 +22,7 @@ import java.nio.ByteBuffer;
  * Iterator over a batch of committed tasks.
  * @see StateMachine#onApply(Iterator)
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-03 3:20:15 PM
  */

@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.error;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class InvokeTimeoutException extends RemotingException {
 

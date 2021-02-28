@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 import com.hxg.sofa.jraft.util.Requires;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class KeyValueTool {
 

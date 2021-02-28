@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.metrics;
 /**
  * KVMetrics prefix names.
  *
- * @author jiachun.fjc
+ *
  */
 public class KVMetricNames {
 

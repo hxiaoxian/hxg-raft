@@ -54,7 +54,7 @@ import com.codahale.metrics.Slf4jReporter;
 /**
  * Minimum execution/copy unit of RheaKVStore.
  *
- * @author jiachun.fjc
+ *
  */
 public class RegionEngine implements Lifecycle<RegionEngineOptions>, Describer {
 

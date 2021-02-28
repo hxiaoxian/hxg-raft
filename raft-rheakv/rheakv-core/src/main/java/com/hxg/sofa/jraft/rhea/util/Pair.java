@@ -21,7 +21,7 @@ import java.util.Objects;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class Pair<K, V> implements Serializable {
 

@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.Closure;
 /**
  * A thread-safe closure queue.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-14 10:29:12 AM
  */

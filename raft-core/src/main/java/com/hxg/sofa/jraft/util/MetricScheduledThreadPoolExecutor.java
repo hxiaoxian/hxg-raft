@@ -26,7 +26,7 @@ import com.codahale.metrics.Timer;
  * schedule commands to run after a given delay with a timer metric
  * which aggregates timing durations and provides duration statistics.
  *
- * @author jiachun.fjc
+ *
  */
 public class MetricScheduledThreadPoolExecutor extends LogScheduledThreadPoolExecutor {
 

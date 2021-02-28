@@ -34,7 +34,7 @@ import com.hxg.sofa.jraft.rpc.Connection;
  * Intercepting incoming calls to get {@link Connection} and attach to current {@link Context}
  * before that are dispatched by {@link ServerCallHandler}.
  *
- * @author jiachun.fjc
+ *
  */
 public class ConnectionInterceptor implements ServerInterceptor {
 

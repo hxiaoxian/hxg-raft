@@ -33,7 +33,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
  * State machine adapter that implements all methods with default behavior
  * except {@link #onApply(Iterator)}.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-30 10:32:27 AM
  */

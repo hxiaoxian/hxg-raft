@@ -32,7 +32,7 @@ import com.alipay.sofa.jraft.util.SPI;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @SPI(name = "storeStatsValidator", priority = 100)
 @Handler.Sharable

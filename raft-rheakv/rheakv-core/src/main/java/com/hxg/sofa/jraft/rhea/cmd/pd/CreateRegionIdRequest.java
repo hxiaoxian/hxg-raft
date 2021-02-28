@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class CreateRegionIdRequest extends BaseRequest {
 

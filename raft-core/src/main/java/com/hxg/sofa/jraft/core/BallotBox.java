@@ -38,7 +38,7 @@ import com.hxg.sofa.jraft.conf.Configuration;
 
 /**
  * Ballot box for voting.
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:32:10 PM
  */

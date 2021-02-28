@@ -21,7 +21,7 @@ import sun.misc.Unsafe;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @SuppressWarnings("unchecked")
 final class UnsafeReferenceFieldUpdater<U, W> implements ReferenceFieldUpdater<U, W> {

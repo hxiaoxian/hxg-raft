@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class LongSequence {
 

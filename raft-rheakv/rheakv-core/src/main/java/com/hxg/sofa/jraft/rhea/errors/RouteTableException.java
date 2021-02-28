@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 /**
  * Routing table information get/refresh failed.
  *
- * @author jiachun.fjc
+ *
  */
 public class RouteTableException extends RuntimeException {
 

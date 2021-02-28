@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rpc;
 import java.util.concurrent.Executor;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface InvokeCallback {
 

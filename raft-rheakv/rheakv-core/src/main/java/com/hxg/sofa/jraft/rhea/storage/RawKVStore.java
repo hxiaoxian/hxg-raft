@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
  * Raw KV store
  *
  * @author dennis
- * @author jiachun.fjc
+ *
  */
 public interface RawKVStore {
 

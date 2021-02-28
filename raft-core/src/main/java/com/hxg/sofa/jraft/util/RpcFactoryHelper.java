@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rpc.RaftRpcFactory;
 import com.hxg.sofa.jraft.rpc.RpcResponseFactory;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class RpcFactoryHelper {
 

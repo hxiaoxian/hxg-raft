@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.rhea.serialization.impl.protostuff.ProtoStuffSerialize
 /**
  * Holds all serializers.
  *
- * @author jiachun.fjc
+ *
  */
 public final class Serializers {
 

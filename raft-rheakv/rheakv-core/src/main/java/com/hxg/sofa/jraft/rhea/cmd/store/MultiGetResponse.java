@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rhea.util.ByteArray;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MultiGetResponse extends BaseResponse<Map<ByteArray, byte[]>> {
 

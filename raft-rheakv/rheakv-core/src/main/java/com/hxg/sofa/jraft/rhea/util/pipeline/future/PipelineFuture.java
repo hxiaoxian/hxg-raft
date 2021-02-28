@@ -20,7 +20,7 @@ import java.util.concurrent.CompletionStage;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface PipelineFuture<V> extends CompletionStage<V> {
 

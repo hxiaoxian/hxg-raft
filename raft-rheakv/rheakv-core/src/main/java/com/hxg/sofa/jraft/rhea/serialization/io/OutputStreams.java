@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.internal.Updaters;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class OutputStreams {
 

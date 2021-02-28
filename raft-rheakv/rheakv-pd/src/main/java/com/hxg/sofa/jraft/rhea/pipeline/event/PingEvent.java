@@ -24,7 +24,7 @@ import com.alipay.sofa.jraft.rhea.metadata.Instruction;
 import com.alipay.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public abstract class PingEvent<T> extends InboundMessageEvent<T> {
 

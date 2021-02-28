@@ -28,7 +28,7 @@ import com.lmax.disruptor.WorkHandler;
  * Callback interface to be implemented for processing events
  * as they become available in the RingBuffer.
  *
- * @author jiachun.fjc
+ *
  */
 public class TaskHandler implements EventHandler<MessageEvent<Runnable>>, WorkHandler<MessageEvent<Runnable>>,
                         TimeoutHandler, LifecycleAware {

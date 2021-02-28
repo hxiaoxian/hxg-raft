@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.util.timer;
 import com.hxg.sofa.jraft.core.Scheduler;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface RaftTimerFactory {
 

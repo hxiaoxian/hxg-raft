@@ -36,7 +36,7 @@ import com.hxg.sofa.jraft.util.Requires;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MpscSingleThreadExecutor implements SingleThreadExecutor {
 

@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.rhea.util.Lists;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class ScanExample {
 

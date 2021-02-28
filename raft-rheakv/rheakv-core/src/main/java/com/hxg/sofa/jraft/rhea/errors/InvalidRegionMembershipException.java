@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 /**
  * Membership changes occur in the current region
  *
- * @author jiachun.fjc
+ *
  */
 public class InvalidRegionMembershipException extends ApiException {
 

@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class PutIfAbsentRequest extends BaseRequest {
 

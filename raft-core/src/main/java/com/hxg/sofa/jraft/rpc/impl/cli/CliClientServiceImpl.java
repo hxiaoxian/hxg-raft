@@ -45,8 +45,8 @@ import com.google.protobuf.Message;
 
 /**
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public class CliClientServiceImpl extends AbstractClientService implements CliClientService {
 

@@ -33,7 +33,7 @@ import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.RPC_REQUEST_HANDLE_T
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MetricsKVClosureAdapter implements KVStoreClosure {
 

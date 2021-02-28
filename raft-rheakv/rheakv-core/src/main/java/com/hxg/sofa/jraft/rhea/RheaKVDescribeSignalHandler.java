@@ -33,7 +33,7 @@ import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RheaKVDescribeSignalHandler extends FileOutputSignalHandler {
 

@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
  *
- * @author nicholas.jxf
+ *
  */
 public class CompareAndPutRequest extends BaseRequest {
 

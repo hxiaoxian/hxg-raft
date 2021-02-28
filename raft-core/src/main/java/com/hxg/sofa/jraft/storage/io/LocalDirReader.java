@@ -31,7 +31,7 @@ import com.google.protobuf.Message;
 /**
  * Read a file data form local dir by fileName.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-06 9:25:12 PM
  */

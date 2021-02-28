@@ -98,7 +98,7 @@ import com.alipay.sofa.jraft.util.Utils;
  *                 └──────────────────────────────┘
  * </pre>
  *
- * @author jiachun.fjc
+ *
  */
 public class PlacementDriverServer implements Lifecycle<PlacementDriverServerOptions> {
 

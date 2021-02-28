@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class KeyUnlockResponse extends BaseResponse<DistributedLock.Owner> {
 

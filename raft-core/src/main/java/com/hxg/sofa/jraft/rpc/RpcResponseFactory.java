@@ -23,8 +23,8 @@ import com.google.protobuf.Message;
 /**
  * Helper to create error response.
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public interface RpcResponseFactory {
 

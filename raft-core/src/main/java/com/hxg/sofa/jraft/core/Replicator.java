@@ -73,7 +73,7 @@ import com.google.protobuf.ZeroByteStringHelper;
 
 /**
  * Replicator for replicating log entry from leader to followers.
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 10:32:02 AM
  */
@@ -195,7 +195,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * Internal state
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 10:38:45 AM
      */
@@ -295,7 +295,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * Statistics structure
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 10:38:53 AM
      */

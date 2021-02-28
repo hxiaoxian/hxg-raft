@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.rhea.storage.Sequence;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class GetSequenceExample {
 

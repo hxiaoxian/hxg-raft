@@ -65,7 +65,7 @@ import com.lmax.disruptor.dsl.ProducerType;
 /**
  * The finite state machine caller implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-03 11:12:14 AM
  */
@@ -75,7 +75,7 @@ public class FSMCallerImpl implements FSMCaller {
 
     /**
      * Task type
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-03 11:12:25 AM
      */
@@ -105,7 +105,7 @@ public class FSMCallerImpl implements FSMCaller {
     /**
      * Apply task for disruptor.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-03 11:12:35 AM
      */
@@ -310,7 +310,7 @@ public class FSMCallerImpl implements FSMCaller {
 
     /**
      * Closure runs with an error.
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 2:20:31 PM
      */

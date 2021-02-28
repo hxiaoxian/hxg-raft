@@ -28,7 +28,7 @@ import com.hxg.sofa.jraft.rhea.util.Maps;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class DefaultPipelineFuture<V> extends CompletableFuture<V> implements PipelineFuture<V> {
 

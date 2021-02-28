@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.entity.PeerId;
 /**
  * The raft state listener.
  *
- * @author jiachun.fjc
+ *
  */
 public interface StateListener {
 

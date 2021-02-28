@@ -11,7 +11,6 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 
 /**
  *
- * @author jiachun.fjc
  */
 public class DefaultRheaIterator implements RheaIterator<KVEntry> {
 

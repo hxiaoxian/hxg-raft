@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.util.Utils;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RpcOptions {
 

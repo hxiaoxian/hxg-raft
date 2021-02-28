@@ -45,7 +45,7 @@ import static com.hxg.sofa.jraft.rhea.storage.KVOperation.SCAN;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class MetricsRawKVStore implements RawKVStore {
 

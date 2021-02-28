@@ -25,7 +25,7 @@ import org.jctools.queues.atomic.MpscGrowableAtomicArrayQueue;
 import org.jctools.queues.atomic.MpscUnboundedAtomicArrayQueue;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class Mpsc {
 

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 /**
  * A split occurs in the region.
  *
- * @author jiachun.fjc
+ *
  */
 public class InvalidRegionVersionException extends ApiException {
 

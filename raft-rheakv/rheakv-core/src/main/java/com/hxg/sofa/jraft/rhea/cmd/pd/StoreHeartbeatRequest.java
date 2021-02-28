@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rhea.metadata.StoreStats;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class StoreHeartbeatRequest extends BaseRequest {
 

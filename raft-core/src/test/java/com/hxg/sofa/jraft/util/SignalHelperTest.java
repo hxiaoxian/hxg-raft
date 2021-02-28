@@ -21,7 +21,7 @@ import java.util.List;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class SignalHelperTest {
 

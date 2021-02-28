@@ -33,8 +33,8 @@ import com.google.protobuf.Message;
  *
  * @param <T> Message
  *
- * @author boyan (boyan@alibaba-inc.com)
- * @author jiachun.fjc
+ *     
+ *
  */
 public abstract class NodeRequestProcessor<T extends Message> extends RpcRequestProcessor<T> {
 

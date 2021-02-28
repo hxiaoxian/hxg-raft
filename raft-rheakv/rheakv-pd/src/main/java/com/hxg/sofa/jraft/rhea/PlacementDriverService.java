@@ -30,7 +30,7 @@ import com.alipay.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
 import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface PlacementDriverService extends Lifecycle<PlacementDriverServerOptions> {
 

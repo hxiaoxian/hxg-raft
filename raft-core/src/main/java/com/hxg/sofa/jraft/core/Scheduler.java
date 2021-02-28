@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface Scheduler {
 

@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * A raft node identifier.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-03 4:08:14 PM
  */

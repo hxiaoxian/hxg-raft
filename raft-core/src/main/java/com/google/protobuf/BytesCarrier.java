@@ -21,7 +21,7 @@ import java.nio.ByteBuffer;
 
 /**
  * 
- * @author jiachun.fjc
+ *
  */
 public class BytesCarrier extends ByteOutput {
 

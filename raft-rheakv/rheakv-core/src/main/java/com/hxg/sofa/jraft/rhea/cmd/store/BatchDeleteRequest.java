@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  *
- * @author nicholas.jxf
+ *
  */
 public class BatchDeleteRequest extends BaseRequest {
 

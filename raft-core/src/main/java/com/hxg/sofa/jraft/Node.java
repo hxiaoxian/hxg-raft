@@ -35,7 +35,7 @@ import com.hxg.sofa.jraft.util.Describer;
 /**
  * A raft replica node.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-03 4:06:55 PM
  */

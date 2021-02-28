@@ -36,7 +36,7 @@ import com.google.protobuf.ZeroByteStringHelper;
 /**
  * Table to keep local snapshot metadata infos.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-12 7:22:27 PM
  */

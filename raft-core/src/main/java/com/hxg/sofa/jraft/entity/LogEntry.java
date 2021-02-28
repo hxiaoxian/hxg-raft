@@ -30,7 +30,7 @@ import com.hxg.sofa.jraft.util.CrcUtil;
 /**
  * A replica log entry.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Mar-12 3:13:02 PM
  */

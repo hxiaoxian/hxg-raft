@@ -43,7 +43,7 @@ import static org.junit.Assert.assertTrue;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class AbstractDistributedLockTest extends RheaKVTestCluster {
 

@@ -36,7 +36,7 @@ import com.hxg.sofa.jraft.rhea.errors.Errors;
 import com.hxg.sofa.jraft.rhea.util.Lists;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class ListFailoverFutureTest {
 

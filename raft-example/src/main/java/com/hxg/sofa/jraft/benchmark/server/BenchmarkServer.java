@@ -29,7 +29,7 @@ import com.codahale.metrics.ConsoleReporter;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class BenchmarkServer {
 

@@ -46,7 +46,7 @@ import static io.protostuff.WireFormat.makeTag;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 class NioBufInput implements Input {
 

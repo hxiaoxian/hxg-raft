@@ -51,7 +51,7 @@ import com.alipay.sofa.jraft.util.Requires;
  *      the flower cant not.
  * </pre>
  *
- * @author jiachun.fjc
+ *
  */
 public class PlacementDriverProcessor<T extends BaseRequest> implements RpcProcessor<T> {
 

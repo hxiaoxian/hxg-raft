@@ -131,7 +131,7 @@ import com.lmax.disruptor.dsl.ProducerType;
 /**
  * The raft replica node implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *
  *
  * 2018-Apr-03 4:26:51 PM
  */
@@ -255,7 +255,7 @@ public class NodeImpl implements Node, RaftServerService {
     /**
      * Node service event.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Apr-03 4:29:55 PM
      */
@@ -284,7 +284,7 @@ public class NodeImpl implements Node, RaftServerService {
     /**
      * Event handler.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Apr-03 4:30:07 PM
      */
@@ -317,7 +317,7 @@ public class NodeImpl implements Node, RaftServerService {
     /**
      * Configuration commit context.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Apr-03 4:29:38 PM
      */
@@ -2104,7 +2104,7 @@ public class NodeImpl implements Node, RaftServerService {
 
     /**
      * Peer catch up callback
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Apr-11 2:10:02 PM
      */
@@ -2276,7 +2276,7 @@ public class NodeImpl implements Node, RaftServerService {
     /**
      * Configuration changed callback.
      *
-     * @author boyan (boyan@alibaba-inc.com)
+     *
      *
      * 2018-Apr-11 2:53:43 PM
      */

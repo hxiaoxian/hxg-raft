@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 /**
  * Rhea's constants
  *
- * @author jiachun.fjc
+ *
  */
 public final class Constants {
 

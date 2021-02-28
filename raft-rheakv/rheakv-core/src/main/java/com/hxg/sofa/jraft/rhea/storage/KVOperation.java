@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.util.Requires;
 /**
  * The KV store operation
  *
- * @author jiachun.fjc
+ *
  */
 public class KVOperation implements Serializable {
 

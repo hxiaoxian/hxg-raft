@@ -31,7 +31,7 @@ package com.hxg.sofa.jraft.rhea.storage;
  *     }
  * <pre/>
  *
- * @author jiachun.fjc
+ *
  */
 public interface KVIterator extends AutoCloseable {
 

@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
 /**
  * for test
  *
- * @author jiachun.fjc
+ *
  */
 public class LocalLock extends DistributedLock<byte[]> {
 

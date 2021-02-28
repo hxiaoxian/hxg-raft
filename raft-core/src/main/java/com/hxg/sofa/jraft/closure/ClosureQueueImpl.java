@@ -33,7 +33,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Closure queue implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Mar-28 11:44:01 AM
  */

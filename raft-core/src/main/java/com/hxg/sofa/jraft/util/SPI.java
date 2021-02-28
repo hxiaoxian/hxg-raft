@@ -24,7 +24,7 @@ import java.lang.annotation.Target;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

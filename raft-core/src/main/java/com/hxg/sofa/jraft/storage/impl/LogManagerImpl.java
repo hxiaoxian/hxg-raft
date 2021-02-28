@@ -68,7 +68,7 @@ import com.lmax.disruptor.dsl.ProducerType;
 /**
  * LogManager implementation.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 4:42:20 PM
  */
@@ -130,7 +130,7 @@ public class LogManagerImpl implements LogManager {
 
     /**
      * Waiter metadata
-     * @author boyan (boyan@alibaba-inc.com)
+     *     
      *
      * 2018-Apr-04 5:05:04 PM
      */

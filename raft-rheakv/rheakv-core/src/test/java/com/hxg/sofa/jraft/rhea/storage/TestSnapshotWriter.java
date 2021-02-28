@@ -28,7 +28,7 @@ import com.google.protobuf.Message;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class TestSnapshotWriter extends SnapshotWriter {
 

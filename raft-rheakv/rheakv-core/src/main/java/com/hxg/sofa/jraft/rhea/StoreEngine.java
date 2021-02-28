@@ -80,7 +80,7 @@ import com.codahale.metrics.Slf4jReporter;
  * Storage engine, there is only one instance in a node,
  * containing one or more {@link RegionEngine}.
  *
- * @author jiachun.fjc
+ *
  */
 public class StoreEngine implements Lifecycle<StoreEngineOptions>, Describer {
 

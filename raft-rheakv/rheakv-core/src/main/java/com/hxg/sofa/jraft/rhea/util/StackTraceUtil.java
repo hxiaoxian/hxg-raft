@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.io.PrintStream;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public final class StackTraceUtil {
 

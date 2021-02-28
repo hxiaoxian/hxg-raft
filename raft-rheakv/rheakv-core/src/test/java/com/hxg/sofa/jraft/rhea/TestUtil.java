@@ -23,7 +23,7 @@ import java.util.List;
 import com.hxg.sofa.jraft.entity.PeerId;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class TestUtil {
 

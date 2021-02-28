@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.example.rheakv;
 import java.io.File;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class Configs {
 

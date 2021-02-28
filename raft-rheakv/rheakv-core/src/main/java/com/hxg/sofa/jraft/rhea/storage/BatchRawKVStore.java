@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
  * The default batch write implementation, without any optimization,
  * subclasses need to override and optimize.
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class BatchRawKVStore<T> extends BaseRawKVStore<T> {
 

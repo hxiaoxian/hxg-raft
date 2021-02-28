@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.storage.snapshot.SnapshotReader;
 import com.google.protobuf.Message;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class TestSnapshotReader extends SnapshotReader {
 

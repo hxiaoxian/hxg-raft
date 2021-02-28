@@ -28,7 +28,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.event.OutboundMessageEvent;
  * Most of the code references the pipeline design of
  * <a href="https://github.com/netty/netty">Netty</a>.
  *
- * @author jiachun.fjc
+ *
  */
 public interface HandlerContext {
 

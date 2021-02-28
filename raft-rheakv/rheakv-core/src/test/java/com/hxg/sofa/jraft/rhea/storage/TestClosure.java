@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 import com.hxg.sofa.jraft.Status;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public class TestClosure extends BaseKVStoreClosure {
 

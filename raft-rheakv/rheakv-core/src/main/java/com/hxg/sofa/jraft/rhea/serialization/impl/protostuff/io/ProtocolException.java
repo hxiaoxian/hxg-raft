@@ -20,7 +20,7 @@ import io.protostuff.ProtobufException;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class ProtocolException extends ProtobufException {
 

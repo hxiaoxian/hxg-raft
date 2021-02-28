@@ -36,7 +36,7 @@ import com.hxg.sofa.jraft.util.Copiable;
  * the load situation. The raft snapshot is used to migrate the region between
  * the store nodes to ensure the load balance of the cluster.
  *
- * @author jiachun.fjc
+ *
  */
 public class Region implements Copiable<Region>, Serializable {
 

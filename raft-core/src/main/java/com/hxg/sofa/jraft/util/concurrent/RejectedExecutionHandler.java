@@ -21,7 +21,7 @@ package com.hxg.sofa.jraft.util.concurrent;
  *
  * Reference from netty project.
  *
- * @author jiachun.fjc
+ *
  */
 public interface RejectedExecutionHandler {
 

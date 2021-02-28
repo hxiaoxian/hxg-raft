@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.util.ExecutorServiceHelper;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class DefaultHandlerInvoker implements HandlerInvoker {
 

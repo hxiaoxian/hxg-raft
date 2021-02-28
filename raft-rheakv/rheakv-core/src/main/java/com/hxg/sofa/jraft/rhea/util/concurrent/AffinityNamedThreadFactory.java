@@ -33,7 +33,7 @@ import com.hxg.sofa.jraft.util.Requires;
  *
  * If no strategies are provided AffinityStrategies.ANY is used.
  *
- * @author jiachun.fjc
+ *
  */
 public class AffinityNamedThreadFactory implements ThreadFactory {
 

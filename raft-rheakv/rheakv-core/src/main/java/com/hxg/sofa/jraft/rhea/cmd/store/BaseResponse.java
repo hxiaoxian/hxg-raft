@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.rhea.metadata.RegionEpoch;
 /**
  * RPC response header
  *
- * @author jiachun.fjc
+ *
  */
 public class BaseResponse<T> implements Serializable {
 

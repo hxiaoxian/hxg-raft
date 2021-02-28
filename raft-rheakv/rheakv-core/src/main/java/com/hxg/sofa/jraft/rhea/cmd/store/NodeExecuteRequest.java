@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.rhea.storage.NodeExecutor;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class NodeExecuteRequest extends BaseRequest {
 

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.util.concurrent;
 /**
  * Factory that creates new {@link ExecutorChooser}s.
  *
- * @author jiachun.fjc
+ *
  */
 public interface ExecutorChooserFactory {
 

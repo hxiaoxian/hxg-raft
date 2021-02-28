@@ -30,7 +30,7 @@ import com.hxg.sofa.jraft.util.Copiable;
 /**
  * Replicator options.
  *
- * @author boyan (boyan@alibaba-inc.com)
+ *     
  *
  * 2018-Apr-04 2:59:24 PM
  */

@@ -35,7 +35,7 @@ import static org.objectweb.asm.Opcodes.V1_1;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class ThreadHelper {
 

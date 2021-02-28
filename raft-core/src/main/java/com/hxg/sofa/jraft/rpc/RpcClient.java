@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public interface RpcClient extends Lifecycle<RpcOptions> {
 

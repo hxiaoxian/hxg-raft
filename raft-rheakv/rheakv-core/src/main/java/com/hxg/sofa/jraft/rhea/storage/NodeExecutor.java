@@ -27,7 +27,7 @@ import com.hxg.sofa.jraft.Status;
  * Note that any element contained in the implementation of this interface must
  * implement the {@link Serializable} interface.
  *
- * @author jiachun.fjc
+ *
  */
 public interface NodeExecutor extends Serializable {
 

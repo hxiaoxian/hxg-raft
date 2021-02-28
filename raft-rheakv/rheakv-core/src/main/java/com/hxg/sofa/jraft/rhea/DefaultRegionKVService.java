@@ -78,7 +78,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
 /**
  * Rhea KV region RPC request processing service.
  *
- * @author jiachun.fjc
+ *
  */
 public class DefaultRegionKVService implements RegionKVService {
 

@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.util.internal;
 
 /**
- * @author jiachun.fjc
+ *
  */
 public interface LongFieldUpdater<U> {
 

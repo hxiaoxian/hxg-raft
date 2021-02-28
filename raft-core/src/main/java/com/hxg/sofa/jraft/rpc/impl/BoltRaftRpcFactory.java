@@ -35,7 +35,7 @@ import com.hxg.sofa.jraft.rpc.RpcServer;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 @SPI
 public class BoltRaftRpcFactory implements RaftRpcFactory {

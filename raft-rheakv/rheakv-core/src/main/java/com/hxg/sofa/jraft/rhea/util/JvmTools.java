@@ -28,7 +28,7 @@ import com.sun.management.HotSpotDiagnosticMXBean;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public final class JvmTools {
 

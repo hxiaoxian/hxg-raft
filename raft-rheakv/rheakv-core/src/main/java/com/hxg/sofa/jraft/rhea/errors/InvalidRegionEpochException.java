@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class InvalidRegionEpochException extends ApiException {
 

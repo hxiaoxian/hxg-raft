@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.metadata;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public enum StoreState {
     UP, OFFLINE, TOMBSTONE

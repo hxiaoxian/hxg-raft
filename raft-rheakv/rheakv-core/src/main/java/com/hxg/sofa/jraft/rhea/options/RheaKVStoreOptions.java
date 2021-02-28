@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.rhea.options.configured.RpcOptionsConfigured;
 
 /**
  *
- * @author jiachun.fjc
+ *
  */
 public class RheaKVStoreOptions {
 

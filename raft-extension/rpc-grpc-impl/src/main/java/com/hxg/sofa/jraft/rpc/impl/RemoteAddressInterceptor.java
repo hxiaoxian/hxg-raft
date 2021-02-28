@@ -29,7 +29,7 @@ import io.grpc.ServerInterceptor;
 /**
  * GRPC server interceptor to trace remote address.
  *
- * @author nicholas.jxf
+ *
  */
 public class RemoteAddressInterceptor implements ServerInterceptor {
 

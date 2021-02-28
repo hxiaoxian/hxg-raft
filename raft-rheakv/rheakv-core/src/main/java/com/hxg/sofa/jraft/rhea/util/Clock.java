@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.util;
 /**
  * An abstraction for how time passes.
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class Clock {
 

@@ -55,8 +55,8 @@ import com.google.protobuf.Message;
 /**
  * GRPC RPC server implement.
  *
- * @author nicholas.jxf
- * @author jiachun.fjc
+ *
+ *
  */
 public class GrpcServer implements RpcServer {
 

@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The code comes from https://github.com/netty/netty/blob/4.1/transport/src/main/java/io/netty/channel/AdaptiveRecvByteBufAllocator.java
  *
- * @author jiachun.fjc
+ *
  */
 public class AdaptiveBufAllocator {
 

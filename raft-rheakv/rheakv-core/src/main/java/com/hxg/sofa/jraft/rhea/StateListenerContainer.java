@@ -26,7 +26,7 @@ import com.hxg.sofa.jraft.rhea.util.Maps;
 /**
  * The container of raft state listener, each key(id) corresponds to a listener group.
  *
- * @author jiachun.fjc
+ *
  */
 public class StateListenerContainer<K> {
 

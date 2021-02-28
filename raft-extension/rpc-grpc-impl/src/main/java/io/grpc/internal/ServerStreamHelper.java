@@ -24,7 +24,7 @@ import com.hxg.sofa.jraft.util.internal.Updaters;
 /**
  * Get grpc's server stream.
  *
- * @author jiachun.fjc
+ *
  */
 public class ServerStreamHelper {
 

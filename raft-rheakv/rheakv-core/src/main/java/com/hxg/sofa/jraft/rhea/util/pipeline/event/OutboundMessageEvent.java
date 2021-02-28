@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.util.pipeline.event;
 /**
  * The default outbound {@link MessageEvent} implementation.
  *
- * @author jiachun.fjc
+ *
  */
 public abstract class OutboundMessageEvent<T> implements MessageEvent<T> {
 

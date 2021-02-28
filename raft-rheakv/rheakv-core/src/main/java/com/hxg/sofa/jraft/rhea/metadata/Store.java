@@ -29,7 +29,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
  * store corresponds to a local file based rocksDB, a store contains
  * multiple regions, all regions share a rocksDB.
  *
- * @author jiachun.fjc
+ *
  */
 public class Store implements Copiable<Store>, Serializable {
 
