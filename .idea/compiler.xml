@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jraft-rheakv-pd" />
+        <module name="raft-example" />
+        <module name="rpc-grpc-impl" />
+        <module name="jraft-rheakv-core" />
+        <module name="raft-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jraft-rheakv-core" target="1.8" />
+      <module name="jraft-rheakv-pd" target="1.8" />
+      <module name="jraft-test" target="1.8" />
+      <module name="raft-core" target="1.8" />
+      <module name="raft-example" target="1.8" />
+      <module name="raft-extension" target="1.8" />
+      <module name="raft-parent" target="1.8" />
+      <module name="raft-rheakv" target="1.8" />
+      <module name="rpc-grpc-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
