@@ -15,7 +15,6 @@
         <module>raft-core</module>
         <module>raft-example</module>
         <module>raft-rheakv</module>
-        <module>raft-extension</module>
     </modules>
 
 

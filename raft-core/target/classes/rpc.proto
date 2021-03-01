@@ -3,7 +3,7 @@ syntax="proto2";
 package jraft;
 import "raft.proto";
 
-option java_package="com.alipay.sofa.jraft.rpc";
+option java_package="com.hxg.sofa.jraft.rpc";
 option java_outer_classname = "RpcRequests";
 
 message PingRequest {

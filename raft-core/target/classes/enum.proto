@@ -1,7 +1,7 @@
 syntax="proto2";
 package jraft;
 
-option java_package="com.alipay.sofa.jraft.entity";
+option java_package="com.hxg.sofa.jraft.entity";
 option java_outer_classname = "EnumOutter";
 
 enum EntryType {
