@@ -4,7 +4,7 @@ package jraft;
 
 import "enum.proto";
 
-option java_package="com.alipay.sofa.jraft.entity.codec.v2";
+option java_package="com.hxg.sofa.jraft.entity.codec.v2";
 option java_outer_classname = "LogOutter";
 
 message PBLogEntry {

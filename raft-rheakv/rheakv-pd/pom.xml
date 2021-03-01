@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>jraft-rheakv</artifactId>
-        <groupId>com.alipay.sofa</groupId>
+        <artifactId>raft-rheakv</artifactId>
+        <groupId>com.hxg.raft</groupId>
         <version>1.3.5</version>
     </parent>
 
-    <artifactId>jraft-rheakv-pd</artifactId>
+    <artifactId>raft-rheakv-pd</artifactId>
     <name>rheakv-pd ${project.version}</name>
 
     <properties>
@@ -18,7 +18,7 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>jraft-rheakv-core</artifactId>
+            <artifactId>raft-rheakv-core</artifactId>
         </dependency>
 
         <dependency>

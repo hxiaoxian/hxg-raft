@@ -3,4 +3,4 @@ com.hxg.sofa.jraft.rhea.pipeline.handler.RegionStatsValidator
 com.hxg.sofa.jraft.rhea.pipeline.handler.StoreStatsPersistenceHandler
 com.hxg.sofa.jraft.rhea.pipeline.handler.RegionStatsPersistenceHandler
 com.hxg.sofa.jraft.rhea.pipeline.handler.RegionLeaderBalanceHandler
-com.hxg.raft.jraft.rhea.pipeline.handler.SplittingJudgeByApproximateKeysHandler
+com.hxg.sofa.jraft.rhea.pipeline.handler.SplittingJudgeByApproximateKeysHandler

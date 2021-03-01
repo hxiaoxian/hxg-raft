@@ -17,8 +17,8 @@
 package com.hxg.sofa.jraft.rhea.options.configured;
 
 import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
-import com.alipay.sofa.jraft.rhea.options.RheaKVStoreOptions;
-import com.alipay.sofa.jraft.rhea.util.Configured;
+import com.hxg.sofa.jraft.rhea.options.RheaKVStoreOptions;
+import com.hxg.sofa.jraft.rhea.util.Configured;
 
 /**
  *

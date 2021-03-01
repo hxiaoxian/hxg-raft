@@ -39,7 +39,7 @@ JAVA_CONFIG=$(mktemp XXXXXXXX)
 cat <<EOF | xargs echo > $JAVA_CONFIG
 ${JAVA_OPTS}
 -cp $CLASSPATH
-com.alipay.sofa.jraft.benchmark.BenchmarkBootstrap
+com.hxg.sofa.jraft.benchmark.BenchmarkBootstrap
 client
 $1
 $2

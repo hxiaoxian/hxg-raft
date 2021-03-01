@@ -352,6 +352,6 @@ public final class JRaftServiceLoader<S> implements Iterable<S> {
      */
     @Override
     public String toString() {
-        return "com.alipay.sofa.jraft.util.JRaftServiceLoader[" + this.service.getName() + "]";
+        return "com.hxg.sofa.jraft.util.JRaftServiceLoader[" + this.service.getName() + "]";
     }
 }

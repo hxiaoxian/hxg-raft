@@ -24,12 +24,12 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentMap;
 
-import com.alipay.remoting.util.ConcurrentHashSet;
-import com.alipay.sofa.jraft.rhea.metadata.Region;
-import com.alipay.sofa.jraft.rhea.metadata.RegionStats;
-import com.alipay.sofa.jraft.rhea.util.Lists;
-import com.alipay.sofa.jraft.rhea.util.Maps;
-import com.alipay.sofa.jraft.rhea.util.Pair;
+import com.hxg.remoting.util.ConcurrentHashSet;
+import com.hxg.sofa.jraft.rhea.metadata.Region;
+import com.hxg.sofa.jraft.rhea.metadata.RegionStats;
+import com.hxg.sofa.jraft.rhea.util.Lists;
+import com.hxg.sofa.jraft.rhea.util.Maps;
+import com.hxg.sofa.jraft.rhea.util.Pair;
 
 /**
  *

@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.rpc.RpcContext;
 import com.google.protobuf.Message;
 
 /**
- * mock alipay remoting async context
+ * mock hxg remoting async context
  *     
  *
  * 2018-Apr-19 6:05:46 PM

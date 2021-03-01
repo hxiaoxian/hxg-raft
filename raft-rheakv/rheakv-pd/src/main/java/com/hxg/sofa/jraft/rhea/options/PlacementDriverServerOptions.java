@@ -16,7 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.options;
 
-import com.alipay.sofa.jraft.rhea.options.RheaKVStoreOptions;
+import com.hxg.sofa.jraft.rhea.options.RheaKVStoreOptions;
 
 /**
  *

@@ -23,7 +23,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 import org.apache.commons.io.FileUtils;
 
-import com.alipay.sofa.jraft.rhea.errors.NotLeaderException;
+import com.hxg.sofa.jraft.rhea.errors.NotLeaderException;
 import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;

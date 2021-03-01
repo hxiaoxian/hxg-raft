@@ -507,7 +507,7 @@ public final class CliRequests {
                         CliRequests.AddPeerRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.AddPeerRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.AddPeerRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -1407,7 +1407,7 @@ public final class CliRequests {
                         CliRequests.AddPeerResponse.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.AddPeerResponse.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.AddPeerResponse.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -2411,7 +2411,7 @@ public final class CliRequests {
                         CliRequests.RemovePeerRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.RemovePeerRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.RemovePeerRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -3311,7 +3311,7 @@ public final class CliRequests {
                         CliRequests.RemovePeerResponse.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.RemovePeerResponse.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.RemovePeerResponse.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -4314,7 +4314,7 @@ public final class CliRequests {
                         CliRequests.ChangePeersRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.ChangePeersRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.ChangePeersRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -5236,7 +5236,7 @@ public final class CliRequests {
                         CliRequests.ChangePeersResponse.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.ChangePeersResponse.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.ChangePeersResponse.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -6156,7 +6156,7 @@ public final class CliRequests {
                         CliRequests.SnapshotRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.SnapshotRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.SnapshotRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -7049,7 +7049,7 @@ public final class CliRequests {
                         CliRequests.ResetPeerRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.ResetPeerRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.ResetPeerRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -8088,7 +8088,7 @@ public final class CliRequests {
                         CliRequests.TransferLeaderRequest.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.rpc.CliRequests.TransferLeaderRequest.newBuilder()
+            // Construct using com.hxg.sofa.jraft.rpc.CliRequests.TransferLeaderRequest.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }

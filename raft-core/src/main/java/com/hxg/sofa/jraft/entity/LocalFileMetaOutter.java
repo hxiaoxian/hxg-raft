@@ -532,7 +532,7 @@ public final class LocalFileMetaOutter {
                         LocalFileMetaOutter.LocalFileMeta.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -891,7 +891,7 @@ public final class LocalFileMetaOutter {
                                               + "ileMeta\022\021\n\tuser_meta\030\001 \001(\014\022!\n\006source\030\002 \001"
                                               + "(\0162\021.jraft.FileSource\022\020\n\010checksum\030\003 \001(\t*"
                                               + ">\n\nFileSource\022\025\n\021FILE_SOURCE_LOCAL\020\000\022\031\n\025"
-                                              + "FILE_SOURCE_REFERENCE\020\001B3\n\034com.alipay.so"
+                                              + "FILE_SOURCE_REFERENCE\020\001B3\n\034com.hxg.so"
                                               + "fa.jraft.entityB\023LocalFileMetaOutter" };
         com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner = new com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner() {
             public com.google.protobuf.ExtensionRegistry assignDescriptors(com.google.protobuf.Descriptors.FileDescriptor root) {

@@ -23,7 +23,7 @@ import java.util.concurrent.Executors;
 
 import com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 import com.hxg.sofa.jraft.rhea.metadata.Region;
-import com.alipay.sofa.jraft.rhea.storage.*;
+import com.hxg.sofa.jraft.rhea.storage.*;
 
 /**
  * KV store test helper

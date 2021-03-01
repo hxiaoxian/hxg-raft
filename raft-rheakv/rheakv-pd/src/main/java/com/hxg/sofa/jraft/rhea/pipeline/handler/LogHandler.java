@@ -20,9 +20,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.hxg.sofa.jraft.rhea.pipeline.event.PingEvent;
-import com.alipay.sofa.jraft.rhea.util.pipeline.Handler;
-import com.alipay.sofa.jraft.rhea.util.pipeline.HandlerContext;
-import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
+import com.hxg.sofa.jraft.rhea.util.pipeline.Handler;
+import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
+import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 
 /**
  *

@@ -24,16 +24,16 @@ import org.slf4j.LoggerFactory;
 
 import com.hxg.sofa.jraft.rhea.ClusterStatsManager;
 import com.hxg.sofa.jraft.rhea.MetadataStore;
-import com.alipay.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
-import com.alipay.sofa.jraft.rhea.metadata.Instruction;
-import com.alipay.sofa.jraft.rhea.metadata.Region;
-import com.alipay.sofa.jraft.rhea.metadata.RegionStats;
+import com.hxg.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
+import com.hxg.sofa.jraft.rhea.metadata.Instruction;
+import com.hxg.sofa.jraft.rhea.metadata.Region;
+import com.hxg.sofa.jraft.rhea.metadata.RegionStats;
 import com.hxg.sofa.jraft.rhea.pipeline.event.RegionPingEvent;
-import com.alipay.sofa.jraft.rhea.util.Pair;
-import com.alipay.sofa.jraft.rhea.util.pipeline.Handler;
-import com.alipay.sofa.jraft.rhea.util.pipeline.HandlerContext;
-import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
-import com.alipay.sofa.jraft.util.SPI;
+import com.hxg.sofa.jraft.rhea.util.Pair;
+import com.hxg.sofa.jraft.rhea.util.pipeline.Handler;
+import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
+import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
+import com.hxg.sofa.jraft.util.SPI;
 
 /**
  * Range split judge, the reference indicator for splitting is the

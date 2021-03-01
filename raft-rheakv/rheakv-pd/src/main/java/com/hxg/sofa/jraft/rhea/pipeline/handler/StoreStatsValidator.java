@@ -20,15 +20,15 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.hxg.sofa.jraft.rhea.MetadataStore;
-import com.alipay.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
-import com.alipay.sofa.jraft.rhea.errors.Errors;
-import com.alipay.sofa.jraft.rhea.metadata.StoreStats;
-import com.alipay.sofa.jraft.rhea.metadata.TimeInterval;
+import com.hxg.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
+import com.hxg.sofa.jraft.rhea.errors.Errors;
+import com.hxg.sofa.jraft.rhea.metadata.StoreStats;
+import com.hxg.sofa.jraft.rhea.metadata.TimeInterval;
 import com.hxg.sofa.jraft.rhea.pipeline.event.StorePingEvent;
-import com.alipay.sofa.jraft.rhea.util.pipeline.Handler;
-import com.alipay.sofa.jraft.rhea.util.pipeline.HandlerContext;
-import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
-import com.alipay.sofa.jraft.util.SPI;
+import com.hxg.sofa.jraft.rhea.util.pipeline.Handler;
+import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
+import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
+import com.hxg.sofa.jraft.util.SPI;
 
 /**
  *

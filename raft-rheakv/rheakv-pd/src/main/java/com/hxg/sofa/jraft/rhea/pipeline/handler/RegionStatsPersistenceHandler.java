@@ -17,12 +17,12 @@
 package com.hxg.sofa.jraft.rhea.pipeline.handler;
 
 import com.hxg.sofa.jraft.rhea.MetadataStore;
-import com.alipay.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
+import com.hxg.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
 import com.hxg.sofa.jraft.rhea.pipeline.event.RegionPingEvent;
-import com.alipay.sofa.jraft.rhea.util.pipeline.Handler;
-import com.alipay.sofa.jraft.rhea.util.pipeline.HandlerContext;
-import com.alipay.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
-import com.alipay.sofa.jraft.util.SPI;
+import com.hxg.sofa.jraft.rhea.util.pipeline.Handler;
+import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
+import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
+import com.hxg.sofa.jraft.util.SPI;
 
 /**
  *

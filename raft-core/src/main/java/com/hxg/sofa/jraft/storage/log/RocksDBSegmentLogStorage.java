@@ -44,7 +44,7 @@ import org.rocksdb.RocksDBException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.alipay.sofa.common.profile.StringUtil;
+import com.hxg.sofa.common.profile.StringUtil;
 import com.hxg.sofa.jraft.storage.log.CheckpointFile.Checkpoint;
 import com.hxg.sofa.jraft.storage.log.SegmentFile.SegmentFileOptions;
 import com.hxg.sofa.jraft.util.ArrayDeque;

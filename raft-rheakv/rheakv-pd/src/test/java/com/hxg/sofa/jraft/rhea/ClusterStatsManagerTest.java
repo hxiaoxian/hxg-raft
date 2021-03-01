@@ -24,8 +24,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.alipay.sofa.jraft.rhea.util.Lists;
-import com.alipay.sofa.jraft.rhea.util.Pair;
+import com.hxg.sofa.jraft.rhea.util.Lists;
+import com.hxg.sofa.jraft.rhea.util.Pair;
 
 /**
  *

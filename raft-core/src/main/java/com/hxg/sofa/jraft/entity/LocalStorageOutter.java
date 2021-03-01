@@ -425,7 +425,7 @@ public final class LocalStorageOutter {
                         LocalStorageOutter.ConfigurationPBMeta.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.LocalStorageOutter.ConfigurationPBMeta.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.LocalStorageOutter.ConfigurationPBMeta.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -1093,7 +1093,7 @@ public final class LocalStorageOutter {
                         LocalStorageOutter.LogPBMeta.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.LocalStorageOutter.LogPBMeta.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.LocalStorageOutter.LogPBMeta.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -1667,7 +1667,7 @@ public final class LocalStorageOutter {
                         LocalStorageOutter.StablePBMeta.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.LocalStorageOutter.StablePBMeta.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.LocalStorageOutter.StablePBMeta.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -2494,7 +2494,7 @@ public final class LocalStorageOutter {
                             LocalStorageOutter.LocalSnapshotPbMeta.File.Builder.class);
                 }
 
-                // Construct using com.alipay.sofa.jraft.entity.LocalStorageOutter.LocalSnapshotPbMeta.File.newBuilder()
+                // Construct using com.hxg.sofa.jraft.entity.LocalStorageOutter.LocalSnapshotPbMeta.File.newBuilder()
                 private Builder() {
                     maybeForceBuilderInitialization();
                 }
@@ -3148,7 +3148,7 @@ public final class LocalStorageOutter {
                         LocalStorageOutter.LocalSnapshotPbMeta.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.LocalStorageOutter.LocalSnapshotPbMeta.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.LocalStorageOutter.LocalSnapshotPbMeta.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -3768,7 +3768,7 @@ public final class LocalStorageOutter {
                                               + " \001(\0132\023.jraft.SnapshotMeta\022.\n\005files\030\002 \003(\013"
                                               + "2\037.jraft.LocalSnapshotPbMeta.File\0328\n\004Fil"
                                               + "e\022\014\n\004name\030\001 \002(\t\022\"\n\004meta\030\002 \001(\0132\024.jraft.Lo"
-                                              + "calFileMetaB2\n\034com.alipay.sofa.jraft.ent"
+                                              + "calFileMetaB2\n\034com.hxg.sofa.jraft.ent"
                                               + "ityB\022LocalStorageOutter" };
         com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner = new com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner() {
             public com.google.protobuf.ExtensionRegistry assignDescriptors(com.google.protobuf.Descriptors.FileDescriptor root) {

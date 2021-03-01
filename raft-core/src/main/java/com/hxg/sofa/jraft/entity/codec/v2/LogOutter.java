@@ -794,7 +794,7 @@ public final class LogOutter {
                         LogOutter.PBLogEntry.Builder.class);
             }
 
-            // Construct using com.alipay.sofa.jraft.entity.codec.v2.LogOutter.PBLogEntry.newBuilder()
+            // Construct using com.hxg.sofa.jraft.entity.codec.v2.LogOutter.PBLogEntry.newBuilder()
             private Builder() {
                 maybeForceBuilderInitialization();
             }
@@ -1584,7 +1584,7 @@ public final class LogOutter {
                                               + "\004term\030\002 \002(\003\022\r\n\005index\030\003 \002(\003\022\r\n\005peers\030\004 \003("
                                               + "\014\022\021\n\told_peers\030\005 \003(\014\022\014\n\004data\030\006 \002(\014\022\020\n\010ch"
                                               + "ecksum\030\007 \001(\003\022\020\n\010learners\030\010 \003(\014\022\024\n\014old_le"
-                                              + "arners\030\t \003(\014B2\n%com.alipay.sofa.jraft.en"
+                                              + "arners\030\t \003(\014B2\n%com.hxg.sofa.jraft.en"
                                               + "tity.codec.v2B\tLogOutter" };
         com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner = new com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner() {
             public com.google.protobuf.ExtensionRegistry assignDescriptors(com.google.protobuf.Descriptors.FileDescriptor root) {

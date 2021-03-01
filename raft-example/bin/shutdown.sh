@@ -2,7 +2,7 @@
 
 echo "Prepare to kill benchmark process"
 
-pid=`ps ax | grep -i 'com.alipay.sofa.jraft.benchmark.BenchmarkBootstrap' | grep java | awk '{print $1}'`
+pid=`ps ax | grep -i 'com.hxg.sofa.jraft.benchmark.BenchmarkBootstrap' | grep java | awk '{print $1}'`
 if [ ! -n "$pid" ] ; then
    echo "$LOG_PREFIX no java process running"
 else

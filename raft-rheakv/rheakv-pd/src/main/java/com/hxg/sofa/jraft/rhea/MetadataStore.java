@@ -21,13 +21,13 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
 
-import com.alipay.sofa.jraft.rhea.metadata.Cluster;
-import com.alipay.sofa.jraft.rhea.metadata.Region;
-import com.alipay.sofa.jraft.rhea.metadata.RegionStats;
-import com.alipay.sofa.jraft.rhea.metadata.Store;
-import com.alipay.sofa.jraft.rhea.metadata.StoreStats;
-import com.alipay.sofa.jraft.rhea.util.Pair;
-import com.alipay.sofa.jraft.util.Endpoint;
+import com.hxg.sofa.jraft.rhea.metadata.Cluster;
+import com.hxg.sofa.jraft.rhea.metadata.Region;
+import com.hxg.sofa.jraft.rhea.metadata.RegionStats;
+import com.hxg.sofa.jraft.rhea.metadata.Store;
+import com.hxg.sofa.jraft.rhea.metadata.StoreStats;
+import com.hxg.sofa.jraft.rhea.util.Pair;
+import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  *

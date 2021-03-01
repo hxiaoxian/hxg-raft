@@ -20,8 +20,8 @@ import java.util.Collection;
 import java.util.concurrent.LinkedBlockingDeque;
 
 import com.hxg.sofa.jraft.rhea.MetadataStore;
-import com.alipay.sofa.jraft.rhea.metadata.Instruction;
-import com.alipay.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
+import com.hxg.sofa.jraft.rhea.metadata.Instruction;
+import com.hxg.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
 
 /**
  *

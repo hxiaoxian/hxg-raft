@@ -18,8 +18,8 @@ package com.hxg.sofa.jraft.rhea.pipeline.event;
 
 import java.util.List;
 
-import com.alipay.sofa.jraft.rhea.metadata.Instruction;
-import com.alipay.sofa.jraft.rhea.util.pipeline.event.OutboundMessageEvent;
+import com.hxg.sofa.jraft.rhea.metadata.Instruction;
+import com.hxg.sofa.jraft.rhea.util.pipeline.event.OutboundMessageEvent;
 
 /**
  *

@@ -16,8 +16,8 @@
  */
 package com.hxg.sofa.jraft.rhea;
 
-import com.alipay.sofa.jraft.rhea.util.StringBuilderHelper;
-import com.alipay.sofa.jraft.util.Endpoint;
+import com.hxg.sofa.jraft.rhea.util.StringBuilderHelper;
+import com.hxg.sofa.jraft.util.Endpoint;
 
 /**
  *

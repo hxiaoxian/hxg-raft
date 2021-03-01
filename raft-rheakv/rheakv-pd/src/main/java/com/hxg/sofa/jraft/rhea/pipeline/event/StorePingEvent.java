@@ -17,7 +17,7 @@
 package com.hxg.sofa.jraft.rhea.pipeline.event;
 
 import com.hxg.sofa.jraft.rhea.MetadataStore;
-import com.alipay.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
+import com.hxg.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
 
 /**
  *

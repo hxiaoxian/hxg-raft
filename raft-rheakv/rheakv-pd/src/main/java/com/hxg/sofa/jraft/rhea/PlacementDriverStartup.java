@@ -35,7 +35,7 @@ public class PlacementDriverStartup {
 
     public static void main(String[] args) throws Exception {
         if (args.length != 1) {
-            LOG.error("Usage: com.alipay.sofa.jraft.rhea.PlacementDriverStartup <ConfigFilePath>");
+            LOG.error("Usage: com.hxg.sofa.jraft.rhea.PlacementDriverStartup <ConfigFilePath>");
             System.exit(1);
         }
         final String configPath = args[0];
