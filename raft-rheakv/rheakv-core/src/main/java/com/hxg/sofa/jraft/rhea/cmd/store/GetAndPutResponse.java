@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+  
 public class GetAndPutResponse extends BaseResponse<byte[]> {
 
     private static final long serialVersionUID = -2858497754385528403L;

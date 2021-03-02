@@ -18,7 +18,7 @@ package com.hxg.sofa.jraft.rhea.options;
 
 /**
  *
- * @author dennis
+ *
  *
  */
 public class RocksDBOptions {

@@ -30,10 +30,7 @@ import com.hxg.sofa.jraft.util.SPI;
 import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 import com.hxg.sofa.jraft.util.Utils;
 
-/**
- *
- *
- */
+  
 @SPI
 public class DefaultRaftTimerFactory implements RaftTimerFactory {
 

@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.options;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+  
 public class RegionRouteTableOptions {
 
     private Long   regionId;

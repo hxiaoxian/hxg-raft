@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.util.internal;
 
 import java.lang.reflect.Field;
 
-/**
- *
- *
- */
+
 final class ReflectionLongFieldUpdater<U> implements LongFieldUpdater<U> {
 
     private final Field field;

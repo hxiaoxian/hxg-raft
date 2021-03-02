@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import java.util.List;
 
-/**
- *
- *
- */
+
 public class BatchDeleteRequest extends BaseRequest {
 
     private static final long serialVersionUID = -472951628397420368L;

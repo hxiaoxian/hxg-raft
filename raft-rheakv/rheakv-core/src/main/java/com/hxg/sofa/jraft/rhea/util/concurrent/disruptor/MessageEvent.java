@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util.concurrent.disruptor;
 
-/**
- *
- *
- */
+
 public class MessageEvent<T> {
 
     private T message;

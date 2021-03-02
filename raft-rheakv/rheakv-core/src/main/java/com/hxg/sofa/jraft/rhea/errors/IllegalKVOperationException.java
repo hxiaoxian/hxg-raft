@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class IllegalKVOperationException extends RheaRuntimeException {
 
     private static final long serialVersionUID = 6265505295002925357L;

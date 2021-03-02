@@ -24,9 +24,7 @@ import com.hxg.sofa.jraft.Closure;
 import com.hxg.sofa.jraft.Status;
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- */
+  
 public class JoinableClosure implements Closure {
 
     private final CountDownLatch latch = new CountDownLatch(1);

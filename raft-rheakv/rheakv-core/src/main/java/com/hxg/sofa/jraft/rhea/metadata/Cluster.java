@@ -23,10 +23,7 @@ import java.util.Objects;
 import com.hxg.sofa.jraft.rhea.util.Lists;
 import com.hxg.sofa.jraft.util.Copiable;
 
-/**
- *
- *
- */
+
 public class Cluster implements Copiable<Cluster>, Serializable {
 
     private static final long serialVersionUID = 3291666486933960310L;

@@ -58,7 +58,7 @@ public class AppendEntriesRequestProcessor extends NodeRequestProcessor<AppendEn
     /**
      * Peer executor selector.
      *
-     * @author dennis
+     *
      */
     final class PeerExecutorSelector implements RpcProcessor.ExecutorSelector {
 
@@ -97,7 +97,7 @@ public class AppendEntriesRequestProcessor extends NodeRequestProcessor<AppendEn
     /**
      * RpcRequestClosure that will send responses in pipeline mode.
      *
-     * @author dennis
+     *
      */
     class SequenceRpcRequestClosure extends RpcRequestClosure {
 
@@ -129,7 +129,7 @@ public class AppendEntriesRequestProcessor extends NodeRequestProcessor<AppendEn
     /**
      * Response message wrapper with a request sequence number and asyncContext.done
      *
-     * @author dennis
+     *
      */
     static class SequenceMessage implements Comparable<SequenceMessage> {
         public final Message     msg;

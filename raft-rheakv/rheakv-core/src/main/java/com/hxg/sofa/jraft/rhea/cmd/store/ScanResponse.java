@@ -20,10 +20,7 @@ import java.util.List;
 
 import com.hxg.sofa.jraft.rhea.storage.KVEntry;
 
-/**
- *
- *
- */
+  
 public class ScanResponse extends BaseResponse<List<KVEntry>> {
 
     private static final long serialVersionUID = 4993114150396497063L;

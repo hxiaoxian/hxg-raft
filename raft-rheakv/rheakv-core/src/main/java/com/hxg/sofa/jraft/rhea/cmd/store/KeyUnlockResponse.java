@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
 
-/**
- *
- *
- */
+
 public class KeyUnlockResponse extends BaseResponse<DistributedLock.Owner> {
 
     private static final long serialVersionUID = 1062747000551501541L;

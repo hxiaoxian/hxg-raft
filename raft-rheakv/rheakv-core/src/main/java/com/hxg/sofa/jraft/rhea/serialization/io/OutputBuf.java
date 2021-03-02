@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.serialization.io;
 import java.io.OutputStream;
 import java.nio.ByteBuffer;
 
-/**
- *
- *
- */
+
 public interface OutputBuf {
 
     /**

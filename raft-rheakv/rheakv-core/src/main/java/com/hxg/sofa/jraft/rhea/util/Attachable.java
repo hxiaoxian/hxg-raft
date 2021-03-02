@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util;
 
-/**
- *
- *
- */
+  
 public interface Attachable<T> {
 
     T getAttachments();

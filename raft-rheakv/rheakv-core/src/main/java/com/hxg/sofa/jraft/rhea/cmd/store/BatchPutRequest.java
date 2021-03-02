@@ -20,10 +20,7 @@ import java.util.List;
 
 import com.hxg.sofa.jraft.rhea.storage.KVEntry;
 
-/**
- *
- *
- */
+
 public class BatchPutRequest extends BaseRequest {
 
     private static final long serialVersionUID = -980036845124180958L;

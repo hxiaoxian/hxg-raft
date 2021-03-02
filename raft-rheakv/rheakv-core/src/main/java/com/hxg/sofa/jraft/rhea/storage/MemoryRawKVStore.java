@@ -49,9 +49,7 @@ import static com.hxg.sofa.jraft.rhea.storage.MemoryKVStoreSnapshotFile.LockerDB
 import static com.hxg.sofa.jraft.rhea.storage.MemoryKVStoreSnapshotFile.Segment;
 import static com.hxg.sofa.jraft.rhea.storage.MemoryKVStoreSnapshotFile.TailIndex;
 
-/**
- *
- */
+
 public class MemoryRawKVStore extends BatchRawKVStore<MemoryDBOptions> {
 
     private static final Logger                          LOG          = LoggerFactory.getLogger(MemoryRawKVStore.class);

@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.util.timer;
 
 import com.hxg.sofa.jraft.core.Scheduler;
 
-/**
- *
- */
+
 public interface RaftTimerFactory {
 
     Timer getElectionTimer(final boolean shared, final String name);

@@ -6,22 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="raft-example" />
-        <module name="rpc-grpc-impl" />
         <module name="raft-rheakv-pd" />
         <module name="raft-rheakv-core" />
+        <module name="raft-test" />
         <module name="raft-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jraft-test" target="1.8" />
       <module name="raft-core" target="1.8" />
-      <module name="raft-example" target="1.8" />
       <module name="raft-extension" target="1.8" />
       <module name="raft-parent" target="1.8" />
       <module name="raft-rheakv" target="1.8" />
       <module name="raft-rheakv-core" target="1.8" />
       <module name="raft-rheakv-pd" target="1.8" />
+      <module name="raft-test" target="1.8" />
       <module name="rpc-grpc-impl" target="1.8" />
     </bytecodeTargetLevel>
   </component>

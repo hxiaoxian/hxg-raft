@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.pipeline.event;
 import com.hxg.sofa.jraft.rhea.MetadataStore;
 import com.hxg.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
 
-/**
- *
- *
- */
+
 public class StorePingEvent extends PingEvent<StoreHeartbeatRequest> {
 
     public StorePingEvent(StoreHeartbeatRequest message, MetadataStore metadataStore) {

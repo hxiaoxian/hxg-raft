@@ -25,7 +25,7 @@ import com.hxg.sofa.jraft.util.Utils;
 /**
  * SnapshotThrottle with throughput threshold used in installSnapshot.
  *
- * @author dennis
+ *
  */
 public class ThroughputSnapshotThrottle implements SnapshotThrottle {
 

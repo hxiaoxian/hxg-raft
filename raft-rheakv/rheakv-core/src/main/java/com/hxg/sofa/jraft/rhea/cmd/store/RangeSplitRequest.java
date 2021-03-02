@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- */
+  
 public class RangeSplitRequest extends BaseRequest {
 
     private static final long serialVersionUID = 2369343322478279224L;

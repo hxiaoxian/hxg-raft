@@ -1427,7 +1427,7 @@ public class NodeImpl implements Node, RaftServerService {
 
     /**
      * ReadIndex response closure
-     * @author dennis
+     *
      */
     private class ReadIndexHeartbeatResponseClosure extends RpcResponseClosureAdapter<AppendEntriesResponse> {
         final ReadIndexResponse.Builder             respBuilder;

@@ -20,10 +20,7 @@ import java.util.List;
 
 import com.hxg.sofa.jraft.option.CliOptions;
 
-/**
- *
- *
- */
+  
 public class PlacementDriverOptions {
 
     private boolean                       fake;

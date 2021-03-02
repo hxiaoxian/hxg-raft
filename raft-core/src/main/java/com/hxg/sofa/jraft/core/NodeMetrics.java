@@ -26,7 +26,7 @@ import com.codahale.metrics.MetricRegistry;
 /**
  * Node metrics
  *
- * @author dennis
+ *
  */
 public class NodeMetrics {
 

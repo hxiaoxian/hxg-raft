@@ -21,7 +21,7 @@ import java.nio.ByteBuffer;
 /**
  * A byte buffer collector that will expand automatically.
  *
- * @author dennis
+ *
  */
 public final class ByteBufferCollector implements Recyclable {
 

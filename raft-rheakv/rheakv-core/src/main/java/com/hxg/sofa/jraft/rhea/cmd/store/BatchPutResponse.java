@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+  
 public class BatchPutResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = 5567277378042784855L;

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.rhea.errors;
 /**
  * Storage codec exception.
  *
- * @author dennis
+ *
  */
 public class StoreCodecException extends RheaRuntimeException {
 

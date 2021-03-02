@@ -20,10 +20,7 @@ import io.protostuff.LinkedBuffer;
 
 import com.hxg.sofa.jraft.rhea.serialization.Serializer;
 
-/**
- *
- *
- */
+  
 public final class LinkedBuffers {
 
     // reuse the 'byte[]' of LinkedBuffer's head node

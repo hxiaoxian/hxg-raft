@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.util.internal;
 import java.lang.reflect.Field;
 import sun.misc.Unsafe;
 
-/**
- *
- *
- */
+  
 final class UnsafeLongFieldUpdater<U> implements LongFieldUpdater<U> {
 
     private final long   offset;

@@ -24,10 +24,7 @@ import java.util.concurrent.atomic.AtomicLong;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- *
- */
+  
 public class UniqueIdUtil {
 
     private static final Logger     logger         = LoggerFactory.getLogger(UniqueIdUtil.class);

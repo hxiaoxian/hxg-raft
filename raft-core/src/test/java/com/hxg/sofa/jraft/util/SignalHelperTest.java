@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.util;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- *
- */
+
 public class SignalHelperTest {
 
     public static void main(String[] args) throws InterruptedException {

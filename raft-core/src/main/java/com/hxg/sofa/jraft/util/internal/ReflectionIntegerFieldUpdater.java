@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.util.internal;
 
 import java.lang.reflect.Field;
 
-/**
- *
- *
- */
+  
 final class ReflectionIntegerFieldUpdater<U> implements IntegerFieldUpdater<U> {
 
     private final Field field;

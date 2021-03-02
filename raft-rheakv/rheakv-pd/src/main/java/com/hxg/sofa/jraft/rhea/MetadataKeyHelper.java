@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.rhea;
 import com.hxg.sofa.jraft.rhea.util.StringBuilderHelper;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- */
+  
 public final class MetadataKeyHelper {
 
     private static final char DELIMITER = '-';

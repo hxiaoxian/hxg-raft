@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+  
 public class RangeSplitResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = -2041687876902891674L;

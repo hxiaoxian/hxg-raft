@@ -65,7 +65,7 @@ import com.lmax.disruptor.dsl.ProducerType;
 /**
  * Read-only service implementation.
  *
- * @author dennis
+ *
  */
 public class ReadOnlyServiceImpl implements ReadOnlyService, LastAppliedLogIndexListener {
 
@@ -132,7 +132,7 @@ public class ReadOnlyServiceImpl implements ReadOnlyService, LastAppliedLogIndex
     /**
      * ReadIndexResponse process closure
      *
-     * @author dennis
+     *
      */
     class ReadIndexResponseClosure extends RpcResponseClosureAdapter<ReadIndexResponse> {
 

@@ -6,9 +6,7 @@ import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 
 import com.hxg.sofa.jraft.rhea.util.Maps;
 
-/**
- *
- */
+  
 public class RoundRobinLoadBalancer implements LoadBalancer {
 
     private static final ConcurrentMap<Long, RoundRobinLoadBalancer>       container    = Maps.newConcurrentMapLong();

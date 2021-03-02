@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- */
+  
 public class GetStoreIdRequest extends BaseRequest {
 
     private static final long serialVersionUID = 4699755250417516668L;

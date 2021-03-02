@@ -26,10 +26,7 @@ import java.util.Map;
 
 import com.sun.management.HotSpotDiagnosticMXBean;
 
-/**
- *
- *
- */
+  
 public final class JvmTools {
 
     /**

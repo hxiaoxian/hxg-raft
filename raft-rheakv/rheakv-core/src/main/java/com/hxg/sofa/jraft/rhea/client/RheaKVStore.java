@@ -61,7 +61,7 @@ import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
  *
  */
 public interface RheaKVStore extends Lifecycle<RheaKVStoreOptions> {
-
+    PlacementDriverClient getPlacementDriverClient();
     /**
      * Equivalent to {@code get(key, true)}.
      */
@@ -691,10 +691,6 @@ public interface RheaKVStore extends Lifecycle<RheaKVStoreOptions> {
     DistributedLock<byte[]> getDistributedLock(final String target, final long lease, final TimeUnit unit,
                                                final ScheduledExecutorService watchdog);
 
-    /**
-     * Returns current placement driver client instance.
-     */
-    PlacementDriverClient getPlacementDriverClient();
 
     /**
      * Add a listener for the state change of the leader with

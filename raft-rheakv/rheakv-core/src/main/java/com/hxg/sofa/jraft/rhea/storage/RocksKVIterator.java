@@ -22,10 +22,7 @@ import org.rocksdb.RocksIterator;
 
 import com.hxg.sofa.jraft.rhea.errors.InvalidIteratorVersion;
 
-/**
- *
- *
- */
+  
 public class RocksKVIterator implements KVIterator {
 
     private final RocksRawKVStore rocksRawKVStore;

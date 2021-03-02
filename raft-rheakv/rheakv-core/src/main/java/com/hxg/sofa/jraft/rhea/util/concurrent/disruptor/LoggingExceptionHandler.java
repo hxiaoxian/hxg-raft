@@ -22,10 +22,7 @@ import org.slf4j.LoggerFactory;
 import com.hxg.sofa.jraft.rhea.util.StackTraceUtil;
 import com.lmax.disruptor.ExceptionHandler;
 
-/**
- *
- *
- */
+  
 public class LoggingExceptionHandler implements ExceptionHandler<Object> {
 
     private static final Logger LOG = LoggerFactory.getLogger(LoggingExceptionHandler.class);

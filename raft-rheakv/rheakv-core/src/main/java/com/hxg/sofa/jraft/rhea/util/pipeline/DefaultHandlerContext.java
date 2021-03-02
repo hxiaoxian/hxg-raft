@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util.pipeline;
 
-/**
- *
- *
- */
+
 class DefaultHandlerContext extends AbstractHandlerContext {
 
     private final Handler handler;

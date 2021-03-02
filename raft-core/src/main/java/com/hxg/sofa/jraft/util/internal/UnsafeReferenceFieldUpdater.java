@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.util.internal;
 import java.lang.reflect.Field;
 import sun.misc.Unsafe;
 
-/**
- *
- *
- */
+  
 @SuppressWarnings("unchecked")
 final class UnsafeReferenceFieldUpdater<U, W> implements ReferenceFieldUpdater<U, W> {
 

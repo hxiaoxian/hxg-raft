@@ -18,9 +18,7 @@ import com.hxg.sofa.jraft.rhea.util.Lists;
 import com.hxg.sofa.jraft.rhea.util.Strings;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- */
+  
 public class RemotePlacementDriverClient extends AbstractPlacementDriverClient {
 
     private static final Logger LOG = LoggerFactory.getLogger(RemotePlacementDriverClient.class);

@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.util;
 
 import org.rocksdb.Statistics;
 
-/**
- *
- *
- */
+
 public class DebugStatistics extends Statistics {
 
     public String getString() {

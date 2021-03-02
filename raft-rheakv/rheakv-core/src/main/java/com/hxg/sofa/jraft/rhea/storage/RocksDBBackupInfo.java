@@ -23,7 +23,7 @@ import org.rocksdb.BackupInfo;
 /**
  * RocksDB backup metadata info.
  *
- * @author dennis
+ *
  *
  */
 public class RocksDBBackupInfo implements Serializable {

@@ -24,9 +24,7 @@ import org.jctools.queues.MpscUnboundedArrayQueue;
 import org.jctools.queues.atomic.MpscGrowableAtomicArrayQueue;
 import org.jctools.queues.atomic.MpscUnboundedAtomicArrayQueue;
 
-/**
- *
- */
+  
 public final class Mpsc {
 
     private static final int MPSC_CHUNK_SIZE       = 1024;

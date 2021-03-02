@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class PlacementDriverServerStartupException extends RuntimeException {
 
     private static final long serialVersionUID = -7077475444751119247L;

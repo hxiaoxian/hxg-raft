@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class RegionEngineFailException extends ApiException {
 
     private static final long serialVersionUID = -1951306006419415048L;

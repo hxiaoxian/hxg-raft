@@ -21,10 +21,7 @@ import com.hxg.sofa.jraft.util.BytesUtil;
 import com.hxg.sofa.jraft.util.Copiable;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+  
 public class RegionEngineOptions implements Copiable<RegionEngineOptions> {
 
     private Long        regionId;

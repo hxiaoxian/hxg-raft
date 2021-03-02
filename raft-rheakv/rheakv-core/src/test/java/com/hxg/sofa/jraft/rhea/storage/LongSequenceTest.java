@@ -21,9 +21,7 @@ import java.util.concurrent.atomic.AtomicLong;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- */
+
 public class LongSequenceTest {
 
     private final AtomicLong index = new AtomicLong();

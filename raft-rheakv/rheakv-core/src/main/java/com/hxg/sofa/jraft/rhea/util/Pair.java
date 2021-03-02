@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.util;
 import java.io.Serializable;
 import java.util.Objects;
 
-/**
- *
- *
- */
+  
 public class Pair<K, V> implements Serializable {
 
     private static final long serialVersionUID = 3390134330336111160L;

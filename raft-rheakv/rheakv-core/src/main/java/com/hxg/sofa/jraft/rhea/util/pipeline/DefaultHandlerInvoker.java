@@ -27,10 +27,7 @@ import org.slf4j.LoggerFactory;
 import com.hxg.sofa.jraft.rhea.util.StackTraceUtil;
 import com.hxg.sofa.jraft.util.ExecutorServiceHelper;
 
-/**
- *
- *
- */
+  
 public class DefaultHandlerInvoker implements HandlerInvoker {
 
     private static final Logger   LOG = LoggerFactory.getLogger(DefaultHandlerInvoker.class);

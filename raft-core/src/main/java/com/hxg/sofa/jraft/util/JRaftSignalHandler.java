@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.util;
 
-/**
- *
- *
- */
+
 public interface JRaftSignalHandler {
 
     void handle(final String signalName);

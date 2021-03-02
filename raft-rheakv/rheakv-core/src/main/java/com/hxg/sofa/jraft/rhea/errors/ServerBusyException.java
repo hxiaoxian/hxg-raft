@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class ServerBusyException extends ApiException {
 
     private static final long serialVersionUID = -8818890748531018697L;

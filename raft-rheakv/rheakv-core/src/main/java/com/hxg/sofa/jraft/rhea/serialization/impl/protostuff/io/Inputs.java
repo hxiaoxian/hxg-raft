@@ -25,10 +25,7 @@ import io.protostuff.ProtobufException;
 import com.hxg.sofa.jraft.rhea.serialization.io.InputBuf;
 import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 
-/**
- *
- *
- */
+  
 public final class Inputs {
 
     public static Input getInput(final InputBuf inputBuf) {

@@ -27,9 +27,7 @@ import com.hxg.sofa.jraft.util.NamedThreadFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- */
+  
 public class MpscSingleThreadExecutorTest {
 
     private static final ThreadFactory THREAD_FACTORY = new NamedThreadFactory("test", true);

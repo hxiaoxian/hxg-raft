@@ -24,9 +24,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 import com.hxg.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
 
-/**
- *
- */
+
 @Handler.Sharable
 public class PlacementDriverTailHandler extends InboundHandlerAdapter<PingEvent<?>> {
 

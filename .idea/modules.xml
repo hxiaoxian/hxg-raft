@@ -3,13 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/raft-core/raft-core.iml" filepath="$PROJECT_DIR$/raft-core/raft-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/raft-example/raft-example.iml" filepath="$PROJECT_DIR$/raft-example/raft-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/raft-extension/raft-extension.iml" filepath="$PROJECT_DIR$/raft-extension/raft-extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/raft-parent.iml" filepath="$PROJECT_DIR$/raft-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/raft-rheakv/raft-rheakv.iml" filepath="$PROJECT_DIR$/raft-rheakv/raft-rheakv.iml" />
       <module fileurl="file://$PROJECT_DIR$/raft-rheakv/rheakv-core/raft-rheakv-core.iml" filepath="$PROJECT_DIR$/raft-rheakv/rheakv-core/raft-rheakv-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/raft-rheakv/rheakv-pd/raft-rheakv-pd.iml" filepath="$PROJECT_DIR$/raft-rheakv/rheakv-pd/raft-rheakv-pd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/raft-extension/rpc-grpc-impl/rpc-grpc-impl.iml" filepath="$PROJECT_DIR$/raft-extension/rpc-grpc-impl/rpc-grpc-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raft-test/raft-test.iml" filepath="$PROJECT_DIR$/raft-test/raft-test.iml" />
     </modules>
   </component>
 </project>

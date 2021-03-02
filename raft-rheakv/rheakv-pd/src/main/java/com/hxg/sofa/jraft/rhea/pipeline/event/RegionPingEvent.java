@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.rhea.pipeline.event;
 import com.hxg.sofa.jraft.rhea.MetadataStore;
 import com.hxg.sofa.jraft.rhea.cmd.pd.RegionHeartbeatRequest;
 
-/**
- *
- */
+  
 public class RegionPingEvent extends PingEvent<RegionHeartbeatRequest> {
 
     public RegionPingEvent(RegionHeartbeatRequest message, MetadataStore metadataStore) {

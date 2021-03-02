@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public final class NeverGetHereException extends RuntimeException {
 
     private static final long                 serialVersionUID = 1526796993531347794L;

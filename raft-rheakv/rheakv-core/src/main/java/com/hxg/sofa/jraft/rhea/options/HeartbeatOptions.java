@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.options;
 
-/**
- *
- */
+  
 public class HeartbeatOptions {
 
     private long storeHeartbeatIntervalSeconds  = 60;

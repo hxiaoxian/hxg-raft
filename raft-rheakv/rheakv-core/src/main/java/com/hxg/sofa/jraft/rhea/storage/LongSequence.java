@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.storage;
 
-/**
- *
- *
- */
+  
 public abstract class LongSequence {
 
     private final long base;

@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+  
 public class ResetSequenceResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = -4218451773245085392L;

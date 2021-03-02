@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.util.concurrent;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- *
- *
- */
+  
 public interface FixedThreadsExecutorGroup extends Iterable<SingleThreadExecutor> {
 
     /**

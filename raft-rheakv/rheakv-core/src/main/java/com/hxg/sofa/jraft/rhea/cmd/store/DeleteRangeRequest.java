@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+  
 public class DeleteRangeRequest extends BaseRequest {
 
     private static final long serialVersionUID = -5457684744947827779L;

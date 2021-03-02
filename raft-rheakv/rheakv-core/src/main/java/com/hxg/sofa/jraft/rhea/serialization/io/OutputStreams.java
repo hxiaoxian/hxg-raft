@@ -22,10 +22,7 @@ import com.hxg.sofa.jraft.rhea.serialization.Serializer;
 import com.hxg.sofa.jraft.util.internal.ReferenceFieldUpdater;
 import com.hxg.sofa.jraft.util.internal.Updaters;
 
-/**
- *
- *
- */
+  
 public final class OutputStreams {
 
     private static final ReferenceFieldUpdater<ByteArrayOutputStream, byte[]> bufUpdater     = Updaters

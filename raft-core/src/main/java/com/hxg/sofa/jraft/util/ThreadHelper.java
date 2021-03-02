@@ -33,10 +33,7 @@ import static org.objectweb.asm.Opcodes.INVOKESTATIC;
 import static org.objectweb.asm.Opcodes.RETURN;
 import static org.objectweb.asm.Opcodes.V1_1;
 
-/**
- *
- *
- */
+  
 public final class ThreadHelper {
 
     private static final Logger  LOG = LoggerFactory.getLogger(ThreadHelper.class);

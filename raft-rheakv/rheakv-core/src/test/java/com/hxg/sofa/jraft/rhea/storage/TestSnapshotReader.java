@@ -25,9 +25,7 @@ import com.hxg.sofa.jraft.entity.RaftOutter;
 import com.hxg.sofa.jraft.storage.snapshot.SnapshotReader;
 import com.google.protobuf.Message;
 
-/**
- *
- */
+  
 public class TestSnapshotReader extends SnapshotReader {
 
     final Map<String, LocalFileMetaOutter.LocalFileMeta> metaTable;

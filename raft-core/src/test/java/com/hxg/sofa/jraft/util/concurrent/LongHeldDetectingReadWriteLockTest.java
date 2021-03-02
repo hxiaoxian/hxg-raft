@@ -24,10 +24,7 @@ import java.util.concurrent.locks.ReadWriteLock;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- *
- */
+  
 public class LongHeldDetectingReadWriteLockTest {
 
     @Test

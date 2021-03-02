@@ -9,6 +9,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/jraft-test/pom.xml" />
+        <option value="$PROJECT_DIR$/raft-extension/pom.xml" />
       </set>
     </option>
   </component>

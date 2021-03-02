@@ -23,10 +23,7 @@ import java.util.concurrent.ConcurrentMap;
 
 import com.hxg.sofa.jraft.rhea.util.Maps;
 
-/**
- *
- *
- */
+  
 public final class ConcurrentSet<E> extends AbstractSet<E> implements Serializable {
 
     private static final long               serialVersionUID = -6761513279741915432L;

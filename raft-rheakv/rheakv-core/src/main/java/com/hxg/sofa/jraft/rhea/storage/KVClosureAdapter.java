@@ -22,9 +22,7 @@ import org.slf4j.LoggerFactory;
 import com.hxg.sofa.jraft.Status;
 import com.hxg.sofa.jraft.rhea.errors.Errors;
 
-/**
- *
- */
+  
 public class KVClosureAdapter implements KVStoreClosure {
 
     private static final Logger  LOG = LoggerFactory.getLogger(KVClosureAdapter.class);

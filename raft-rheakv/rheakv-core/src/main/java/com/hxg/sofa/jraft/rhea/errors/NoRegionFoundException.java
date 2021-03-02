@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class NoRegionFoundException extends ApiException {
 
     private static final long serialVersionUID = 1284652280085988572L;

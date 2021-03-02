@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+
 public class BatchDeleteResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = 8507492618405370694L;

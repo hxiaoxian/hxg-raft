@@ -24,10 +24,7 @@ import io.protostuff.WriteSession;
 import com.hxg.sofa.jraft.rhea.serialization.io.OutputBuf;
 import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 
-/**
- *
- *
- */
+
 public final class Outputs {
 
     public static Output getOutput(final OutputBuf outputBuf) {

@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.storage;
 /**
  * Snapshot throttling during heavy disk reading/writing
  *
- * @author dennis
+ *
  */
 public interface SnapshotThrottle {
 

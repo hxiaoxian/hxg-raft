@@ -34,10 +34,7 @@ import org.slf4j.LoggerFactory;
 import com.hxg.sofa.jraft.util.Mpsc;
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- *
- */
+
 public class MpscSingleThreadExecutor implements SingleThreadExecutor {
 
     private static final Logger                                              LOG                      = LoggerFactory

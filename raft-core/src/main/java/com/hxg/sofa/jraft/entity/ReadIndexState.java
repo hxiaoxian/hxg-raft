@@ -21,7 +21,7 @@ import com.hxg.sofa.jraft.util.Bytes;
 
 /**
  * ReadIndex state
- * @author dennis
+ *
  *
  */
 public class ReadIndexState {

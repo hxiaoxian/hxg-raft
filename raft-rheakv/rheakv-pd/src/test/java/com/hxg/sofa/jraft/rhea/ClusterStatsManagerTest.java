@@ -27,9 +27,7 @@ import org.junit.Test;
 import com.hxg.sofa.jraft.rhea.util.Lists;
 import com.hxg.sofa.jraft.rhea.util.Pair;
 
-/**
- *
- */
+  
 public class ClusterStatsManagerTest {
 
     @Before

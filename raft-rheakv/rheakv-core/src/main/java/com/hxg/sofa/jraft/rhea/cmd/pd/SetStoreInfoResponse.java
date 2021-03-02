@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 import com.hxg.sofa.jraft.rhea.metadata.Store;
 
-/**
- *
- */
+  
 public class SetStoreInfoResponse extends BaseResponse<Store> {
 
     private static final long serialVersionUID = -6160125980158885948L;

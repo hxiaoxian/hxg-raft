@@ -34,10 +34,7 @@ import com.hxg.sofa.jraft.rhea.serialization.io.OutputBuf;
 import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 
-/**
- *
- *
- */
+  
 public class ProtoStuffSerializer extends Serializer {
 
     static {

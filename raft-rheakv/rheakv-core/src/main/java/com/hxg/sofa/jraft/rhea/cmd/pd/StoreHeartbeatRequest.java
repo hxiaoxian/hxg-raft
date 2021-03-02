@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 import com.hxg.sofa.jraft.rhea.metadata.StoreStats;
 
-/**
- *
- *
- */
+  
 public class StoreHeartbeatRequest extends BaseRequest {
 
     private static final long serialVersionUID = -601174279828704074L;

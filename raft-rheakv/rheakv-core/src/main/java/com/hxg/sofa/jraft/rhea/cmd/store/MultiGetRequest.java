@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import java.util.List;
 
-/**
- *
- *
- */
+  
 public class MultiGetRequest extends BaseRequest {
 
     private static final long serialVersionUID = 586927459257448933L;

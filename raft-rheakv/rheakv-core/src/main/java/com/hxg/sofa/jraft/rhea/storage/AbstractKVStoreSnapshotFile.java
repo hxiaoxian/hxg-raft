@@ -43,9 +43,7 @@ import com.google.protobuf.ByteString;
 
 import static com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 
-/**
- *
- */
+  
 public abstract class AbstractKVStoreSnapshotFile implements KVStoreSnapshotFile {
 
     private static final Logger LOG              = LoggerFactory.getLogger(AbstractKVStoreSnapshotFile.class);

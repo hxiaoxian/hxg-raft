@@ -23,10 +23,7 @@ import com.hxg.sofa.jraft.rhea.metadata.Region;
 import com.hxg.sofa.jraft.storage.snapshot.SnapshotReader;
 import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
 
-/**
- *
- *
- */
+  
 public interface KVStoreSnapshotFile {
 
     /**

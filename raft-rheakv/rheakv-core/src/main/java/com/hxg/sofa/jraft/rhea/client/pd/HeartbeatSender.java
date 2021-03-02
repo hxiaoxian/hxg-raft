@@ -41,9 +41,7 @@ import com.hxg.sofa.jraft.util.timer.HashedWheelTimer;
 import com.hxg.sofa.jraft.util.timer.Timeout;
 import com.hxg.sofa.jraft.util.timer.TimerTask;
 
-/**
- *
- */
+  
 public class HeartbeatSender implements Lifecycle<HeartbeatOptions> {
 
     private static final Logger         LOG = LoggerFactory.getLogger(HeartbeatSender.class);

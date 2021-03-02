@@ -25,10 +25,7 @@ import org.slf4j.LoggerFactory;
 import com.hxg.sofa.jraft.rhea.util.StackTraceUtil;
 import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 
-/**
- *
- *
- */
+
 public final class UnsafeDirectBufferUtil {
 
     private static final Logger                    LOG                           = LoggerFactory

@@ -65,10 +65,7 @@ import com.hxg.sofa.jraft.util.JRaftServiceLoader;
 import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
-/**
- *
- *
- */
+
 public class DefaultPlacementDriverService implements PlacementDriverService, LeaderStateListener {
 
     private static final Logger LOG = LoggerFactory.getLogger(DefaultPlacementDriverService.class);

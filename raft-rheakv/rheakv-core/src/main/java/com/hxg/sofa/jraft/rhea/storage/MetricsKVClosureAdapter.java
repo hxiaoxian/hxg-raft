@@ -31,10 +31,7 @@ import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.REGION_KEYS_READ;
 import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.REGION_KEYS_WRITTEN;
 import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.RPC_REQUEST_HANDLE_TIMER;
 
-/**
- *
- *
- */
+
 public class MetricsKVClosureAdapter implements KVStoreClosure {
 
     private final KVStoreClosure done;

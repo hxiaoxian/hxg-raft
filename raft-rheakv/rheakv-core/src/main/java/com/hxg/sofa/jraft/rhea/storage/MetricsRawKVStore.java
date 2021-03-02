@@ -43,10 +43,7 @@ import static com.hxg.sofa.jraft.rhea.storage.KVOperation.RESET_SEQUENCE;
 import static com.hxg.sofa.jraft.rhea.storage.KVOperation.REVERSE_SCAN;
 import static com.hxg.sofa.jraft.rhea.storage.KVOperation.SCAN;
 
-/**
- *
- *
- */
+
 public class MetricsRawKVStore implements RawKVStore {
 
     private final String     regionId;

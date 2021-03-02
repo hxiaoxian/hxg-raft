@@ -8,9 +8,7 @@ import java.util.concurrent.TimeoutException;
 
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- */
+
 public class FutureGroup<V> extends CompletableFuture<V> {
 
     private final List<CompletableFuture<V>> futures;

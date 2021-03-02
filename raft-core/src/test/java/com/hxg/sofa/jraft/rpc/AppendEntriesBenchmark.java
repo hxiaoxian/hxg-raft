@@ -39,10 +39,7 @@ import org.openjdk.jmh.runner.options.TimeValue;
 
 import com.google.protobuf.ZeroByteStringHelper;
 
-/**
- *
- *
- */
+  
 @State(Scope.Benchmark)
 public class AppendEntriesBenchmark {
 

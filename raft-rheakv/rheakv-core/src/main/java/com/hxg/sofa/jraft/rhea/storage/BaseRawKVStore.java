@@ -32,9 +32,7 @@ import com.codahale.metrics.Timer;
 
 import static com.hxg.sofa.jraft.rhea.metrics.KVMetricNames.DB_TIMER;
 
-/**
- *
- */
+
 public abstract class BaseRawKVStore<T> implements RawKVStore, Lifecycle<T> {
 
     @Override

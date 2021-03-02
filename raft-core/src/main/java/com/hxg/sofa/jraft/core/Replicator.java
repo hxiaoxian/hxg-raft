@@ -146,7 +146,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * Replicator state
-     * @author dennis
+     *
      *
      */
     public enum State {
@@ -168,7 +168,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * Replicator metric set.
-     * @author dennis
+     *
      *
      */
     private static final class ReplicatorMetricSet implements MetricSet {
@@ -323,7 +323,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * In-flight request.
-     * @author dennis
+     *
      *
      */
     static class Inflight {
@@ -363,7 +363,7 @@ public class Replicator implements ThreadId.OnError {
 
     /**
      * RPC response for AppendEntries/InstallSnapshot.
-     * @author dennis
+     *
      *
      */
     static class RpcResponse implements Comparable<RpcResponse> {

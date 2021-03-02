@@ -23,10 +23,7 @@ import com.hxg.sofa.jraft.util.NamedThreadFactory;
 import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.Utils;
 
-/**
- *
- *
- */
+
 public final class DefaultFixedThreadsExecutorGroupFactory implements FixedThreadsExecutorGroupFactory {
 
     public static final DefaultFixedThreadsExecutorGroupFactory INSTANCE = new DefaultFixedThreadsExecutorGroupFactory();

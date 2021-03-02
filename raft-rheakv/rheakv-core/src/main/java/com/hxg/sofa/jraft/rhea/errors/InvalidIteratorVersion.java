@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class InvalidIteratorVersion extends RuntimeException {
 
     private static final long serialVersionUID = 5867777305281344245L;

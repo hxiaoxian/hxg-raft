@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.serialization.impl.protostuff.io;
 
 import io.protostuff.ProtobufException;
 
-/**
- *
- *
- */
+  
 public class ProtocolException extends ProtobufException {
 
     private static final long serialVersionUID = -1L;

@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.pd;
 
-/**
- *
- *
- */
+  
 public class StoreHeartbeatResponse extends BaseResponse<Object> {
 
     private static final long serialVersionUID = -1881606836380822632L;

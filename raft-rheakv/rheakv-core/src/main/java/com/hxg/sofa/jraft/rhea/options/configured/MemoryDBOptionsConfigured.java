@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options.configured;
 import com.hxg.sofa.jraft.rhea.options.MemoryDBOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class MemoryDBOptionsConfigured implements Configured<MemoryDBOptions> {
 
     private final MemoryDBOptions opts;

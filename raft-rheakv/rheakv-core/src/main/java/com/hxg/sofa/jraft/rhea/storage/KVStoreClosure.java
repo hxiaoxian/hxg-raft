@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 import com.hxg.sofa.jraft.Closure;
 import com.hxg.sofa.jraft.rhea.errors.Errors;
 
-/**
- *
- *
- */
+  
 public interface KVStoreClosure extends Closure {
 
     Errors getError();

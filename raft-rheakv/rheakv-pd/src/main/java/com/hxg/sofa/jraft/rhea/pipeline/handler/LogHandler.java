@@ -24,9 +24,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.Handler;
 import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 
-/**
- *
- */
+  
 @Handler.Sharable
 public class LogHandler extends InboundHandlerAdapter<PingEvent> {
 

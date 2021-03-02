@@ -24,10 +24,7 @@ import java.util.regex.Pattern;
 
 import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 
-/**
- *
- *
- */
+  
 public final class NetUtil {
 
     private static final Pattern IP_PATTERN = Pattern.compile("\\d{1,3}(\\.\\d{1,3}){3}$");

@@ -20,10 +20,7 @@ import java.util.List;
 
 import com.hxg.sofa.jraft.rhea.metadata.Instruction;
 
-/**
- *
- *
- */
+
 public class RegionHeartbeatResponse extends BaseResponse<List<Instruction>> {
 
     private static final long serialVersionUID = 6562219940081433268L;

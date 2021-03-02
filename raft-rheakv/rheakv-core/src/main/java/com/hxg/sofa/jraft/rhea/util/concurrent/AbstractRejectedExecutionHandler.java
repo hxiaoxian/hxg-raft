@@ -31,10 +31,7 @@ import com.hxg.sofa.jraft.rhea.util.JvmTools;
 import com.hxg.sofa.jraft.rhea.util.StackTraceUtil;
 import com.hxg.sofa.jraft.util.Utils;
 
-/**
- *
- *
- */
+
 public abstract class AbstractRejectedExecutionHandler implements RejectedExecutionHandler {
 
     protected static final Logger LOG = LoggerFactory.getLogger(AbstractRejectedExecutionHandler.class);

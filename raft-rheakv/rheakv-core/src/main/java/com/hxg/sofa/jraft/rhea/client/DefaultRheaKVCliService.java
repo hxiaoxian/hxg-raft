@@ -18,9 +18,7 @@ import com.hxg.sofa.jraft.rpc.RpcClient;
 import com.hxg.sofa.jraft.rpc.impl.AbstractClientService;
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- */
+  
 public class DefaultRheaKVCliService implements RheaKVCliService {
 
     private static final Logger LOG = LoggerFactory.getLogger(DefaultRheaKVCliService.class);

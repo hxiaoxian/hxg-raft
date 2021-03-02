@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+
 public class MergeResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = 3276165641127952711L;

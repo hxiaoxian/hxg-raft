@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class InvalidRegionEpochException extends ApiException {
 
     private static final long serialVersionUID = -6773905397707597679L;

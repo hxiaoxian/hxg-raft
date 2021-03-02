@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.rhea.storage.NodeExecutor;
 
-/**
- *
- *
- */
+
 public class NodeExecuteRequest extends BaseRequest {
 
     private static final long serialVersionUID = -9087272065211874819L;

@@ -24,9 +24,7 @@ import static org.rocksdb.TickerType.NUMBER_KEYS_WRITTEN;
 import static org.rocksdb.TickerType.NUMBER_MULTIGET_BYTES_READ;
 import static org.rocksdb.TickerType.NUMBER_MULTIGET_KEYS_READ;
 
-/**
- *
- */
+  
 public class StatsCollector {
 
     private static final Logger     LOG = LoggerFactory.getLogger(StatsCollector.class);

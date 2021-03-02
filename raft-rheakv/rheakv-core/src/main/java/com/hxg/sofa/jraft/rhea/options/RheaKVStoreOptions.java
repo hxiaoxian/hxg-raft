@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options;
 import com.hxg.sofa.jraft.rhea.options.configured.BatchingOptionsConfigured;
 import com.hxg.sofa.jraft.rhea.options.configured.RpcOptionsConfigured;
 
-/**
- *
- *
- */
+
 public class RheaKVStoreOptions {
 
     // A clusterId is required to connect to the PD server, and PD server

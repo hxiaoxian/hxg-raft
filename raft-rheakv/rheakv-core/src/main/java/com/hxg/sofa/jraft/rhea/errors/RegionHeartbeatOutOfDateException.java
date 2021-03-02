@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class RegionHeartbeatOutOfDateException extends ApiException {
 
     private static final long serialVersionUID = -1214148060593528609L;

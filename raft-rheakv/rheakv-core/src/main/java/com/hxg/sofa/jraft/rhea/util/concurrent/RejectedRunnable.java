@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util.concurrent;
 
-/**
- *
- *
- */
+  
 public interface RejectedRunnable extends Runnable {
 
     void rejected();

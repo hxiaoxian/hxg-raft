@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.storage;
 
-/**
- *
- */
+  
 public enum StorageType {
     RocksDB, Memory
 }

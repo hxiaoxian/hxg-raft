@@ -23,7 +23,7 @@ import com.hxg.sofa.jraft.option.ReadOnlyServiceOptions;
 /**
  * The read-only query service.
  *
- * @author dennis
+ *
  *
  */
 public interface ReadOnlyService extends Lifecycle<ReadOnlyServiceOptions> {

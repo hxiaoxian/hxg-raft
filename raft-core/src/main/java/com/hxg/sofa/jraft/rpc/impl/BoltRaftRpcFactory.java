@@ -33,10 +33,7 @@ import com.hxg.sofa.jraft.rpc.RaftRpcFactory;
 import com.hxg.sofa.jraft.rpc.RpcClient;
 import com.hxg.sofa.jraft.rpc.RpcServer;
 
-/**
- *
- *
- */
+
 @SPI
 public class BoltRaftRpcFactory implements RaftRpcFactory {
 

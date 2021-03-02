@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.util;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- */
+  
 public class AsciiStringUtilTest {
 
     @Test

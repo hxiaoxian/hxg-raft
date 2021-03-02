@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- */
+  
 public class CreateRegionIdRequest extends BaseRequest {
 
     private static final long serialVersionUID = -2166959562654571711L;

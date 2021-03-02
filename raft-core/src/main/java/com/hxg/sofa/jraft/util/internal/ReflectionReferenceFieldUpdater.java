@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.util.internal;
 
 import java.lang.reflect.Field;
 
-/**
- *
- *
- */
+
 @SuppressWarnings("unchecked")
 final class ReflectionReferenceFieldUpdater<U, W> implements ReferenceFieldUpdater<U, W> {
 

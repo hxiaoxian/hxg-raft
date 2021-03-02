@@ -23,10 +23,7 @@ import com.hxg.sofa.jraft.rhea.errors.Errors;
 import com.hxg.sofa.jraft.rhea.errors.InvalidParameterException;
 import com.hxg.sofa.jraft.rhea.metadata.RegionEpoch;
 
-/**
- *
- *
- */
+
 public final class KVParameterRequires {
 
     public static void requireSameEpoch(final BaseRequest request, final RegionEpoch current) {

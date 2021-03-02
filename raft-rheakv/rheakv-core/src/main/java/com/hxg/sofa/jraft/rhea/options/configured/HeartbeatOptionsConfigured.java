@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options.configured;
 import com.hxg.sofa.jraft.rhea.options.HeartbeatOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+  
 public final class HeartbeatOptionsConfigured implements Configured<HeartbeatOptions> {
 
     private final HeartbeatOptions opts;

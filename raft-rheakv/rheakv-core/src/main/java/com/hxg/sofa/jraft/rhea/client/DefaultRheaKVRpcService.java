@@ -29,9 +29,7 @@ import com.hxg.sofa.jraft.util.ExecutorServiceHelper;
 import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
-/**
- *
- */
+  
 public class DefaultRheaKVRpcService implements RheaKVRpcService {
 
     private static final Logger         LOG = LoggerFactory.getLogger(DefaultRheaKVRpcService.class);

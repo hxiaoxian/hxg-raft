@@ -35,10 +35,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 import com.hxg.sofa.jraft.util.SPI;
 
-/**
- *
- *
- */
+  
 @SPI(name = "regionStatsValidator", priority = 90)
 @Handler.Sharable
 public class RegionStatsValidator extends InboundHandlerAdapter<RegionPingEvent> {

@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options.configured;
 import com.hxg.sofa.jraft.rhea.options.BatchingOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class BatchingOptionsConfigured implements Configured<BatchingOptions> {
 
     private final BatchingOptions opts;

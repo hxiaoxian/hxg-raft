@@ -39,10 +39,7 @@ import static io.protostuff.WireFormat.WIRETYPE_START_GROUP;
 import static io.protostuff.WireFormat.WIRETYPE_VARINT;
 import static io.protostuff.WireFormat.makeTag;
 
-/**
- *
- *
- */
+
 class NioBufOutput implements Output {
 
     private static final ReferenceFieldUpdater<ByteString, byte[]> byteStringBytesGetter = Updaters

@@ -13,9 +13,7 @@ import com.hxg.sofa.jraft.rhea.util.Maps;
 import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 import com.hxg.sofa.jraft.util.SystemPropertyUtil;
 
-/**
- *
- */
+  
 public final class FutureHelper {
 
     public static final long DEFAULT_TIMEOUT_MILLIS = SystemPropertyUtil.getLong("rhea.default_future_timeout", 10000);

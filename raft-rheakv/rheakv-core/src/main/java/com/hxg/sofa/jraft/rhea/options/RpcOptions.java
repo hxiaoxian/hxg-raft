@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.options;
 
 import com.hxg.sofa.jraft.util.Utils;
 
-/**
- *
- *
- */
+
 public class RpcOptions {
 
     private int callbackExecutorCorePoolSize    = Utils.cpus() << 2;

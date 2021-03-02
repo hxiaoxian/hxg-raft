@@ -39,10 +39,7 @@ import com.hxg.sofa.jraft.util.Bits;
 
 import static com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 
-/**
- *
- *
- */
+
 public class MemoryKVStoreSnapshotFile extends AbstractKVStoreSnapshotFile {
 
     private final MemoryRawKVStore kvStore;

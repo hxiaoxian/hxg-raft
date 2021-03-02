@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.util;
 import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 import com.google.protobuf.ByteString;
 
-/**
- *
- */
+  
 public final class AsciiStringUtil {
 
     public static byte[] unsafeEncode(final CharSequence in) {

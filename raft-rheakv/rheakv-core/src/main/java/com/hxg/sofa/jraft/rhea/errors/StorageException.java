@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class StorageException extends ApiException {
 
     private static final long serialVersionUID = 1L;

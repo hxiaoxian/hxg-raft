@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.rhea;
 import com.hxg.sofa.jraft.util.BytesUtil;
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- */
+  
 public class KeyValueTool {
 
     public static byte[] makeKey(String key) {

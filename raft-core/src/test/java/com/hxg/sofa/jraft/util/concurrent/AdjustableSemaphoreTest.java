@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.util.concurrent;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- *
- */
+
 public class AdjustableSemaphoreTest {
 
     @Test

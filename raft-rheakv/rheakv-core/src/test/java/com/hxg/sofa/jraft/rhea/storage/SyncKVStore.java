@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.storage;
 
-/**
- *
- */
+  
 public abstract class SyncKVStore<T> {
 
     @SuppressWarnings("unchecked")

@@ -20,10 +20,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import com.hxg.sofa.jraft.util.Ints;
 
-/**
- *
- *
- */
+
 public final class DefaultExecutorChooserFactory implements ExecutorChooserFactory {
 
     public static final DefaultExecutorChooserFactory INSTANCE = new DefaultExecutorChooserFactory();

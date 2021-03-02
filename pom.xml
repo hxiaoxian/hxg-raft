@@ -13,7 +13,7 @@
 
     <modules>
         <module>raft-core</module>
-        <module>raft-example</module>
+        <module>raft-test</module>
         <module>raft-rheakv</module>
     </modules>
 
@@ -61,12 +61,7 @@
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>raft-example</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>${project.groupId}</groupId>
-                <artifactId>rpc-grpc-impl</artifactId>
+                <artifactId>raft-test</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>

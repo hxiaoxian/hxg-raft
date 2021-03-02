@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.rpc.RpcRequests.ReadIndexRequest;
 
 /**
  * ReadIndex requests statuses.
- * @author dennis
+ *
  *
  */
 public class ReadIndexStatus {

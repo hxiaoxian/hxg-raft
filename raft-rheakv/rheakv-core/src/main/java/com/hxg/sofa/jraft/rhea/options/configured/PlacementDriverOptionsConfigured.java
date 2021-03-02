@@ -24,10 +24,7 @@ import com.hxg.sofa.jraft.rhea.options.RegionRouteTableOptions;
 import com.hxg.sofa.jraft.rhea.options.RpcOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class PlacementDriverOptionsConfigured implements Configured<PlacementDriverOptions> {
 
     private final PlacementDriverOptions opts;

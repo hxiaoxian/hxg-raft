@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.util.internal;
 
-/**
- *
- */
+
 public interface ReferenceFieldUpdater<U, W> {
 
     void set(final U obj, final W newValue);

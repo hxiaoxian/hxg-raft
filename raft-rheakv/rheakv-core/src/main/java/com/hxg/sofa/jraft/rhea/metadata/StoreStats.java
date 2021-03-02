@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.metadata;
 
 import java.io.Serializable;
 
-/**
- *
- *
- */
+
 public class StoreStats implements Serializable {
 
     private static final long serialVersionUID = -7818958068467754379L;

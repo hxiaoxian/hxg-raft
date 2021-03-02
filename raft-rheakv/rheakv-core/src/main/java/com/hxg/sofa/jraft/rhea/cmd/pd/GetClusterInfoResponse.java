@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.pd;
 
 import com.hxg.sofa.jraft.rhea.metadata.Cluster;
 
-/**
- *
- */
+  
 public class GetClusterInfoResponse extends BaseResponse {
 
     private static final long serialVersionUID = 8811355826978037463L;

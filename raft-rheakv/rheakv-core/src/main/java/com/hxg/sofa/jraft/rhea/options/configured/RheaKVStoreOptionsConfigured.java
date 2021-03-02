@@ -23,10 +23,7 @@ import com.hxg.sofa.jraft.rhea.options.RpcOptions;
 import com.hxg.sofa.jraft.rhea.options.StoreEngineOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class RheaKVStoreOptionsConfigured implements Configured<RheaKVStoreOptions> {
 
     private final RheaKVStoreOptions opts;

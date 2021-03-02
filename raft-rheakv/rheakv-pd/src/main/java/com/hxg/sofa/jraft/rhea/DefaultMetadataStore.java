@@ -48,10 +48,7 @@ import com.hxg.sofa.jraft.util.Bits;
 import com.hxg.sofa.jraft.util.BytesUtil;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+
 public class DefaultMetadataStore implements MetadataStore {
 
     private static final Logger                       LOG                  = LoggerFactory

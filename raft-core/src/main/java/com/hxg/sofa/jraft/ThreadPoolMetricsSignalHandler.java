@@ -28,10 +28,7 @@ import com.hxg.sofa.jraft.util.ThreadPoolMetricRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- *
- */
+
 public class ThreadPoolMetricsSignalHandler extends FileOutputSignalHandler {
 
     private static Logger       LOG       = LoggerFactory.getLogger(ThreadPoolMetricsSignalHandler.class);

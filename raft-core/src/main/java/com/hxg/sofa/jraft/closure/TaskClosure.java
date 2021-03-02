@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.Closure;
 
 /**
  * Closure for task applying.
- * @author dennis
+ *
  */
 public interface TaskClosure extends Closure {
 

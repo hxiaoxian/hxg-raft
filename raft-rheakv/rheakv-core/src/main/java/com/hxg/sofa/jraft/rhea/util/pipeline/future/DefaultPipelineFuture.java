@@ -26,10 +26,7 @@ import org.slf4j.LoggerFactory;
 
 import com.hxg.sofa.jraft.rhea.util.Maps;
 
-/**
- *
- *
- */
+  
 public class DefaultPipelineFuture<V> extends CompletableFuture<V> implements PipelineFuture<V> {
 
     private static final Logger                                        LOG                         = LoggerFactory

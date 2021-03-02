@@ -22,9 +22,7 @@ import java.util.List;
 
 import com.hxg.sofa.jraft.entity.PeerId;
 
-/**
- *
- */
+  
 public class TestUtil {
 
     public static final int INIT_PORT = 18800;

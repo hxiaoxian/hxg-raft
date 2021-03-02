@@ -21,9 +21,7 @@ import java.util.List;
 import com.hxg.sofa.jraft.rhea.metadata.Instruction;
 import com.hxg.sofa.jraft.rhea.util.pipeline.event.OutboundMessageEvent;
 
-/**
- *
- */
+  
 public class PongEvent extends OutboundMessageEvent<List<Instruction>> {
 
     public PongEvent(long invokeId, List<Instruction> message) {

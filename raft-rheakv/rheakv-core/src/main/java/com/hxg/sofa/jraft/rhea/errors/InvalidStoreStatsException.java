@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class InvalidStoreStatsException extends ApiException {
 
     private static final long serialVersionUID = 4575768421994347194L;

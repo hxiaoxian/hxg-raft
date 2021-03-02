@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+
 public class MergeRequest extends BaseRequest {
 
     private static final long serialVersionUID = -1438709327379459775L;

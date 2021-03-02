@@ -23,9 +23,7 @@ import com.hxg.sofa.jraft.rhea.MetadataStore;
 import com.hxg.sofa.jraft.rhea.metadata.Instruction;
 import com.hxg.sofa.jraft.rhea.util.pipeline.event.InboundMessageEvent;
 
-/**
- *
- */
+  
 public abstract class PingEvent<T> extends InboundMessageEvent<T> {
 
     private final Collection<Instruction> instructions = new LinkedBlockingDeque<>();

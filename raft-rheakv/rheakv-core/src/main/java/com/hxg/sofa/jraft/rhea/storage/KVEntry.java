@@ -20,10 +20,7 @@ import java.io.Serializable;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+
 public class KVEntry implements Serializable {
 
     private static final long serialVersionUID = -5678680976506834026L;

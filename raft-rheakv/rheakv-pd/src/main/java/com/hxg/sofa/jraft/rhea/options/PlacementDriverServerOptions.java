@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea.options;
 
 import com.hxg.sofa.jraft.rhea.options.RheaKVStoreOptions;
 
-/**
- *
- */
+  
 public class PlacementDriverServerOptions {
 
     private RheaKVStoreOptions rheaKVStoreOptions;

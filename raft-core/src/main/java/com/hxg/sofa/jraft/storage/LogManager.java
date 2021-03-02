@@ -86,7 +86,7 @@ public interface LogManager extends Lifecycle<LogManagerOptions>, Describer {
      * Listen on last log index change event, but it's not reliable,
      * the user should not count on this listener to receive all changed events.
      *
-     * @author dennis
+     *
      */
     interface LastLogIndexListener {
 

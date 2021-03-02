@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- */
+  
 public class InvalidRegionStatsException extends ApiException {
 
     private static final long serialVersionUID = -7345366727426726056L;

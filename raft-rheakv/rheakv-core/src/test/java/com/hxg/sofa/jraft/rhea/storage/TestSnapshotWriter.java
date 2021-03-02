@@ -26,10 +26,7 @@ import com.hxg.sofa.jraft.entity.RaftOutter;
 import com.hxg.sofa.jraft.storage.snapshot.SnapshotWriter;
 import com.google.protobuf.Message;
 
-/**
- *
- *
- */
+
 public class TestSnapshotWriter extends SnapshotWriter {
 
     public final Map<String, LocalFileMetaOutter.LocalFileMeta> metaTable = new ConcurrentHashMap<>();

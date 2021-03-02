@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.util;
 import com.hxg.sofa.jraft.rhea.metadata.Region;
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+  
 public final class RegionHelper {
 
     public static boolean isSingleGroup(final Region region) {

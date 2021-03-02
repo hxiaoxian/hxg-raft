@@ -44,10 +44,7 @@ import static io.protostuff.WireFormat.getTagFieldNumber;
 import static io.protostuff.WireFormat.getTagWireType;
 import static io.protostuff.WireFormat.makeTag;
 
-/**
- *
- *
- */
+  
 class UnsafeNioBufInput implements Input {
 
     static final int         TAG_TYPE_BITS = 3;

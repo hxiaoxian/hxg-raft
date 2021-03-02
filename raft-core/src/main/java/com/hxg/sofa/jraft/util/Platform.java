@@ -21,10 +21,7 @@ import java.util.Locale;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- *
- */
+  
 public class Platform {
 
     private static final Logger  LOG        = LoggerFactory.getLogger(Platform.class);

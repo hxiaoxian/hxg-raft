@@ -22,7 +22,7 @@ import com.hxg.sofa.jraft.core.NodeImpl;
 /**
  * Read-Only service options.
  *
- * @author dennis
+ *
  */
 public class ReadOnlyServiceOptions {
 

@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+  
 public class GetAndPutRequest extends BaseRequest {
 
     private static final long serialVersionUID = -9141052543409768050L;

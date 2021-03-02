@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 import com.hxg.sofa.jraft.rhea.util.concurrent.DistributedLock;
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+  
 public class KeyUnlockRequest extends BaseRequest {
 
     private static final long        serialVersionUID = 4301415966181665575L;

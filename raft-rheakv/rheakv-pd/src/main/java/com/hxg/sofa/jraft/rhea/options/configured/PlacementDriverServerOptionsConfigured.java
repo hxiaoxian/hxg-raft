@@ -20,10 +20,7 @@ import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
 import com.hxg.sofa.jraft.rhea.options.RheaKVStoreOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+  
 public final class PlacementDriverServerOptionsConfigured implements Configured<PlacementDriverServerOptions> {
 
     private final PlacementDriverServerOptions opts;

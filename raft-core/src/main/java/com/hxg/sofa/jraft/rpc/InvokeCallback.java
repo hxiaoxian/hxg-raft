@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rpc;
 
 import java.util.concurrent.Executor;
 
-/**
- *
- */
+  
 public interface InvokeCallback {
 
     void complete(final Object result, final Throwable err);

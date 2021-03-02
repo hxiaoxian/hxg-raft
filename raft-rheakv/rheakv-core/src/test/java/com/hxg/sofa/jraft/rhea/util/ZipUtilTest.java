@@ -30,10 +30,7 @@ import org.junit.Test;
 
 import com.hxg.sofa.jraft.util.CRC64;
 
-/**
- *
- *
- */
+
 public class ZipUtilTest {
 
     private File sourceDir;

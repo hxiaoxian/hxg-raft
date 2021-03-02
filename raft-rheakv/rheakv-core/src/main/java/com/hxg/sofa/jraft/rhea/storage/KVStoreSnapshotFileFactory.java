@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- *
- */
+  
 public final class KVStoreSnapshotFileFactory {
 
     public static <T> KVStoreSnapshotFile getKVStoreSnapshotFile(final BaseRawKVStore<T> kvStore) {

@@ -18,9 +18,7 @@ package com.hxg.sofa.jraft.rhea;
 
 import java.io.IOException;
 
-/**
- *
- */
+  
 public class PdServer extends BasePdServer {
 
     public static void main(String[] args) throws Exception {

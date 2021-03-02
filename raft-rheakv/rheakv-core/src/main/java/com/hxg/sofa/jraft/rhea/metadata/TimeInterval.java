@@ -20,10 +20,7 @@ import java.io.Serializable;
 
 import com.hxg.sofa.jraft.util.Copiable;
 
-/**
- *
- *
- */
+  
 public class TimeInterval implements Copiable<TimeInterval>, Serializable {
 
     private static final long serialVersionUID = 2454987958697466235L;

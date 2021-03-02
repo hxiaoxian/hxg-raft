@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+
 public class InvalidLockAcquirerException extends IllegalStateException {
 
     private static final long serialVersionUID = 2699110936640666381L;

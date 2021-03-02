@@ -30,10 +30,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 import com.hxg.sofa.jraft.util.SPI;
 
-/**
- *
- *
- */
+  
 @SPI(name = "storeStatsValidator", priority = 100)
 @Handler.Sharable
 public class StoreStatsValidator extends InboundHandlerAdapter<StorePingEvent> {

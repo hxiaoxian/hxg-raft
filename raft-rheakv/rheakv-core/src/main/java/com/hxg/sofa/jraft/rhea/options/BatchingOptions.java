@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.options;
 
-/**
- *
- *
- */
+
 public class BatchingOptions {
 
     // If batching is allowed, the client will submit the requests in batch mode,

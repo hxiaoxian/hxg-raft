@@ -22,10 +22,7 @@ import com.hxg.sofa.jraft.error.RemotingException;
 import com.hxg.sofa.jraft.option.RpcOptions;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+  
 public interface RpcClient extends Lifecycle<RpcOptions> {
 
     /**

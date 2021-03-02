@@ -25,10 +25,7 @@ import com.hxg.sofa.jraft.rhea.util.RegionHelper;
 
 import static com.hxg.sofa.jraft.entity.LocalFileMetaOutter.LocalFileMeta;
 
-/**
- *
- *
- */
+  
 public class RocksKVStoreSnapshotFile extends AbstractKVStoreSnapshotFile {
 
     private final RocksRawKVStore kvStore;

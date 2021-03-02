@@ -28,10 +28,7 @@ import com.hxg.sofa.jraft.rhea.storage.StorageType;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+  
 public final class StoreEngineOptionsConfigured implements Configured<StoreEngineOptions> {
 
     private final StoreEngineOptions opts;

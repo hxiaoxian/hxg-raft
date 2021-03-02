@@ -13,9 +13,7 @@ import com.hxg.sofa.jraft.util.DebugStatistics;
 import com.hxg.sofa.jraft.util.internal.ReferenceFieldUpdater;
 import com.hxg.sofa.jraft.util.internal.Updaters;
 
-/**
- *
- */
+  
 public final class RocksStatistics {
 
     private static final ReferenceFieldUpdater<RocksRawKVStore, DebugStatistics> statisticsGetter = Updaters

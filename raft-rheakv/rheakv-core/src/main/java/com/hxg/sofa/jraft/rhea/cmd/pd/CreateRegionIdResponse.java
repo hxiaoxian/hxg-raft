@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.pd;
 
-/**
- *
- */
+  
 public class CreateRegionIdResponse extends BaseResponse<Long> {
 
     private static final long serialVersionUID = 3803254752812207217L;

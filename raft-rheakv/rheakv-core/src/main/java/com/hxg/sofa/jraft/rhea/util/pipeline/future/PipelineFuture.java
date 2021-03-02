@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.util.pipeline.future;
 
 import java.util.concurrent.CompletionStage;
 
-/**
- *
- *
- */
+  
 public interface PipelineFuture<V> extends CompletionStage<V> {
 
     /**

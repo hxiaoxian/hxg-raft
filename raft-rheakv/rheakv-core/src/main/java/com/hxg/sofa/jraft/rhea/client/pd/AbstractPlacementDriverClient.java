@@ -37,9 +37,7 @@ import com.hxg.sofa.jraft.util.Endpoint;
 import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.internal.ThrowUtil;
 
-/**
- *
- */
+  
 public abstract class AbstractPlacementDriverClient implements PlacementDriverClient {
 
     private static final Logger         LOG              = LoggerFactory.getLogger(AbstractPlacementDriverClient.class);

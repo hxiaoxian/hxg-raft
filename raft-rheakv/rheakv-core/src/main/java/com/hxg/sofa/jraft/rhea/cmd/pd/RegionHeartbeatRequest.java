@@ -22,10 +22,7 @@ import com.hxg.sofa.jraft.rhea.metadata.Region;
 import com.hxg.sofa.jraft.rhea.metadata.RegionStats;
 import com.hxg.sofa.jraft.rhea.util.Pair;
 
-/**
- *
- *
- */
+  
 public class RegionHeartbeatRequest extends BaseRequest {
 
     private static final long               serialVersionUID = -5149082334939576598L;

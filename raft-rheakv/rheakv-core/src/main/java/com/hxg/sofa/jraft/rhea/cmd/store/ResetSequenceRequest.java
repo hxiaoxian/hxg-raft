@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- *
- */
+
 public class ResetSequenceRequest extends BaseRequest {
 
     private static final long serialVersionUID = 9173433364010147694L;

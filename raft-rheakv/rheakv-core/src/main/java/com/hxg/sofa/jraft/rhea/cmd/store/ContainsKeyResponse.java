@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+
 public class ContainsKeyResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = -6915749263924784257L;

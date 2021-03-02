@@ -22,10 +22,7 @@ import java.util.Objects;
 import com.hxg.sofa.jraft.util.Copiable;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+  
 public class Peer implements Copiable<Peer>, Serializable {
 
     private static final long serialVersionUID = -266370017635677437L;

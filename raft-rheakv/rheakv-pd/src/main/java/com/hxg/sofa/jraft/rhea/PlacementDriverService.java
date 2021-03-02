@@ -29,9 +29,7 @@ import com.hxg.sofa.jraft.rhea.cmd.pd.SetStoreInfoRequest;
 import com.hxg.sofa.jraft.rhea.cmd.pd.StoreHeartbeatRequest;
 import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
 
-/**
- *
- */
+  
 public interface PlacementDriverService extends Lifecycle<PlacementDriverServerOptions> {
 
     /**

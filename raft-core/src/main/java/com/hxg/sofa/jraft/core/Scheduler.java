@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.core;
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
 
-/**
- *
- *
- */
+
 public interface Scheduler {
 
     /**

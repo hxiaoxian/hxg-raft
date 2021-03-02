@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options.configured;
 import com.hxg.sofa.jraft.rhea.options.RpcOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class RpcOptionsConfigured implements Configured<RpcOptions> {
 
     private final RpcOptions opts;

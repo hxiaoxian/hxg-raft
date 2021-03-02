@@ -29,10 +29,7 @@ import com.hxg.sofa.jraft.rhea.metadata.StoreStats;
 import com.hxg.sofa.jraft.rhea.util.Pair;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- *
- */
+  
 public interface MetadataStore {
 
     /**

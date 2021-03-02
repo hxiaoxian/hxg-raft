@@ -31,10 +31,7 @@ import org.slf4j.LoggerFactory;
 
 import com.codahale.metrics.MetricRegistry;
 
-/**
- *
- *
- */
+
 public class NodeMetricsSignalHandler extends FileOutputSignalHandler {
 
     private static Logger       LOG       = LoggerFactory.getLogger(NodeMetricsSignalHandler.class);

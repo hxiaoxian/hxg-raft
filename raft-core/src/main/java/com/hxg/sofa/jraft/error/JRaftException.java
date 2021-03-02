@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.error;
 
-/**
- *
- *
- */
+
 public class JRaftException extends RuntimeException {
 
     private static final long serialVersionUID = 0L;

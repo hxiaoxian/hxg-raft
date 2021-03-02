@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.rhea.storage;
 import java.util.Map;
 import java.util.concurrent.ConcurrentNavigableMap;
 
-/**
- *
- */
+  
 public class MemoryKVIterator implements KVIterator {
 
     private final ConcurrentNavigableMap<byte[], byte[]> db;

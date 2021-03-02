@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util.pipeline.event;
 
-/**
- *
- *
- */
+
 public interface MessageEvent<T> {
 
     long getInvokeId();

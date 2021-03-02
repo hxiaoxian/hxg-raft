@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+  
 public class CallSelfEndpointException extends ApiException {
 
     private static final long serialVersionUID = -5346262835802551098L;

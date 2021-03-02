@@ -20,7 +20,7 @@ import com.hxg.sofa.jraft.core.NodeImpl;
 
 /**
  * Raft meta storage options
- * @author dennis
+ *
  *
  */
 public class RaftMetaStorageOptions {

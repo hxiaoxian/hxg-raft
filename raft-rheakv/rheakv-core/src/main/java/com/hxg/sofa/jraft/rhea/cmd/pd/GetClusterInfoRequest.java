@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.pd;
 
-/**
- *
- */
+  
 public class GetClusterInfoRequest extends BaseRequest {
 
     private static final long serialVersionUID = -3037434334230192744L;

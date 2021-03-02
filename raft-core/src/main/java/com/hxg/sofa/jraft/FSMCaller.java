@@ -35,7 +35,7 @@ public interface FSMCaller extends Lifecycle<FSMCallerOptions>, Describer {
     /**
      * Listen on lastAppliedLogIndex update events.
      *
-     * @author dennis
+     *
      */
     interface LastAppliedLogIndexListener {
 

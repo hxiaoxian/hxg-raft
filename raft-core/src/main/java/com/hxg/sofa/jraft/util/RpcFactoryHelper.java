@@ -19,9 +19,7 @@ package com.hxg.sofa.jraft.util;
 import com.hxg.sofa.jraft.rpc.RaftRpcFactory;
 import com.hxg.sofa.jraft.rpc.RpcResponseFactory;
 
-/**
- *
- */
+  
 public class RpcFactoryHelper {
 
     private static final RaftRpcFactory RPC_FACTORY = JRaftServiceLoader.load(RaftRpcFactory.class) //

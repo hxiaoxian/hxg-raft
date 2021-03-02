@@ -34,7 +34,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Read index closure
  *
- * @author dennis
+ *
  */
 public abstract class ReadIndexClosure implements Closure {
 

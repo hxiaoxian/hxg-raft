@@ -24,10 +24,7 @@ import com.hxg.sofa.jraft.rhea.util.pipeline.HandlerContext;
 import com.hxg.sofa.jraft.rhea.util.pipeline.InboundHandlerAdapter;
 import com.hxg.sofa.jraft.util.SPI;
 
-/**
- *
- *
- */
+  
 @SPI(name = "regionStatsPersistence", priority = 70)
 @Handler.Sharable
 public class RegionStatsPersistenceHandler extends InboundHandlerAdapter<RegionPingEvent> {

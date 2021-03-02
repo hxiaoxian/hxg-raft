@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.cmd.store;
 
 import com.hxg.sofa.jraft.rhea.storage.Sequence;
 
-/**
- *
- *
- */
+  
 public class GetSequenceResponse extends BaseResponse<Sequence> {
 
     private static final long serialVersionUID = 4145243784727963679L;

@@ -16,9 +16,7 @@ import com.hxg.sofa.jraft.rhea.metadata.Cluster;
 import com.hxg.sofa.jraft.rhea.metadata.Store;
 import com.hxg.sofa.jraft.util.Endpoint;
 
-/**
- *
- */
+  
 public class MetadataRpcClient {
 
     private final PlacementDriverRpcService pdRpcService;

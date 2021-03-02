@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.option;
 /**
  * Read only options.
  *
- * @author dennis
+ *
  */
 public enum ReadOnlyOption {
 

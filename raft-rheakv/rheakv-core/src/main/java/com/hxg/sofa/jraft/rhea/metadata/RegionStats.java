@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.metadata;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- *
- *
- */
+
 public class RegionStats implements Serializable {
 
     private static final long serialVersionUID = -4790131346095689335L;

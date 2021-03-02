@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.util;
 
-/**
- *
- *
- */
+
 @SuppressWarnings("all")
 public final class VarInts {
 

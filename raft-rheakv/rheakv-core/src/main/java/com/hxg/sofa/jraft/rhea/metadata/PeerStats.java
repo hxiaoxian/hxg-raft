@@ -18,10 +18,7 @@ package com.hxg.sofa.jraft.rhea.metadata;
 
 import java.io.Serializable;
 
-/**
- *
- *
- */
+  
 public class PeerStats implements Serializable {
 
     private static final long serialVersionUID = 785959293291029071L;

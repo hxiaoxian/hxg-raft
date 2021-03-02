@@ -30,10 +30,7 @@ import org.rocksdb.RocksDB;
 import org.rocksdb.RocksObject;
 import org.rocksdb.util.SizeUnit;
 
-/**
- *
- *
- */
+
 public final class StorageOptionsFactory {
 
     static {

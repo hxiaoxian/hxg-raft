@@ -27,10 +27,7 @@ import com.hxg.sofa.jraft.util.internal.UnsafeUtil;
 import static io.protostuff.WireFormat.WIRETYPE_LENGTH_DELIMITED;
 import static io.protostuff.WireFormat.makeTag;
 
-/**
- *
- *
- */
+  
 class UnsafeNioBufOutput extends NioBufOutput {
 
     /**

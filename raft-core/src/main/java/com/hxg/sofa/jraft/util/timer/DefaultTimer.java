@@ -27,9 +27,7 @@ import com.hxg.sofa.jraft.util.NamedThreadFactory;
 import com.hxg.sofa.jraft.util.Requires;
 import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
-/**
- *
- */
+  
 public class DefaultTimer implements Timer {
 
     private final ScheduledExecutorService scheduledExecutorService;

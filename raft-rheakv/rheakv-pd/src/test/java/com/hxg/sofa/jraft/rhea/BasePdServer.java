@@ -28,9 +28,7 @@ import com.hxg.sofa.jraft.rhea.options.PlacementDriverServerOptions;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 
-/**
- *
- */
+  
 public class BasePdServer {
 
     private static final String[]                       CONF         = { "/pd/pd_1.yaml", "/pd/pd_2.yaml",

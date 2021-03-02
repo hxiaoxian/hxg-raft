@@ -19,10 +19,7 @@ package com.hxg.sofa.jraft.rhea.options.configured;
 import com.hxg.sofa.jraft.rhea.options.RocksDBOptions;
 import com.hxg.sofa.jraft.rhea.util.Configured;
 
-/**
- *
- *
- */
+
 public final class RocksDBOptionsConfigured implements Configured<RocksDBOptions> {
 
     private final RocksDBOptions opts;

@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.store;
 
-/**
- *
- *
- */
+  
 public class DeleteResponse extends BaseResponse<Boolean> {
 
     private static final long serialVersionUID = 660998710428573132L;

@@ -24,10 +24,7 @@ import com.hxg.sofa.jraft.util.ExecutorServiceHelper;
 import com.hxg.sofa.jraft.util.NamedThreadFactory;
 import com.hxg.sofa.jraft.util.ThreadPoolUtil;
 
-/**
- *
- *
- */
+  
 public final class DefaultSingleThreadExecutor implements SingleThreadExecutor {
 
     private final SingleThreadExecutor singleThreadExecutor;

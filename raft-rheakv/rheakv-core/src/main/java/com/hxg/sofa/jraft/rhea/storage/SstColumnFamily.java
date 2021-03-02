@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.storage;
 
-/**
- *
- */
+  
 public enum SstColumnFamily {
 
     DEFAULT(0), SEQUENCE(1), LOCKING(2), FENCING(3);

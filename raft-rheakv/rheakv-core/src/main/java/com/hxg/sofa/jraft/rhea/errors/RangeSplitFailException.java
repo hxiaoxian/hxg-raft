@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.errors;
 
-/**
- *
- *
- */
+  
 public class RangeSplitFailException extends ApiException {
 
     private static final long serialVersionUID = -5958618049335988246L;

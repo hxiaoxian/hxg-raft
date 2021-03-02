@@ -9,9 +9,7 @@ import com.hxg.sofa.jraft.rhea.client.pd.PlacementDriverClient;
 import com.hxg.sofa.jraft.rhea.storage.KVEntry;
 import com.hxg.sofa.jraft.util.BytesUtil;
 
-/**
- *
- */
+  
 public class DefaultRheaIterator implements RheaIterator<KVEntry> {
 
     private final DefaultRheaKVStore    rheaKVStore;

@@ -16,10 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.options;
 
-/**
- *
- *
- */
+  
 public class MemoryDBOptions {
 
     // for segment snapshot file size

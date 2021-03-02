@@ -16,9 +16,7 @@
  */
 package com.hxg.sofa.jraft.rhea.cmd.pd;
 
-/**
- *
- */
+  
 public class GetStoreIdResponse extends BaseResponse<Long> {
 
     private static final long serialVersionUID = 1559432256700135322L;

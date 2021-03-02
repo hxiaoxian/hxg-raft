@@ -25,10 +25,7 @@ import com.hxg.sofa.jraft.rhea.util.Lists;
 import com.hxg.sofa.jraft.rhea.util.Maps;
 import com.hxg.sofa.jraft.util.Requires;
 
-/**
- *
- *
- */
+
 public final class MultiRegionRouteTableOptionsConfigured implements Configured<List<RegionRouteTableOptions>> {
 
     private final Map<Long, RegionRouteTableOptions> optsTable;

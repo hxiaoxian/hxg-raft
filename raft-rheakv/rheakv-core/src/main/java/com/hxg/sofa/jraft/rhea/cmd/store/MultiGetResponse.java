@@ -20,10 +20,7 @@ import java.util.Map;
 
 import com.hxg.sofa.jraft.rhea.util.ByteArray;
 
-/**
- *
- *
- */
+  
 public class MultiGetResponse extends BaseResponse<Map<ByteArray, byte[]>> {
 
     private static final long serialVersionUID = -7136277297323938853L;

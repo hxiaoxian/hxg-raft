@@ -19,7 +19,7 @@ package com.hxg.sofa.jraft.error;
 /**
  * Retry request exception without stack tracing.
  *
- * @author dennis
+ *
  */
 public class RetryAgainException extends Exception {
 
